@@ -1,27 +1,18 @@
-// src/logManager.ts
 import fs from "fs/promises";
+const LOG_PATH = "chatlog.json";
 
-const LOG_FILE = "chatlog.json";
-
-export async function logInteraction(user: string, bot: string) {
-  const logEntry = {
-    timestamp: new Date().toISOString(),
-    user,
-    bot,
-  };
-
+export async function appendLog(entry: any) {
   try {
     let logs: any[] = [];
     try {
-      const data = await fs.readFile(LOG_FILE, "utf-8");
-      logs = JSON.parse(data);
+      const raw = await fs.readFile(LOG_PATH, "utf8");
+      logs = JSON.parse(raw);
     } catch {
       logs = [];
     }
-
-    logs.push(logEntry);
-    await fs.writeFile(LOG_FILE, JSON.stringify(logs, null, 2));
+    logs.push({ timestamp: new Date().toISOString(), ...entry });
+    await fs.writeFile(LOG_PATH, JSON.stringify(logs, null, 2), "utf8");
   } catch (err) {
-    console.error("Error guardando log:", err);
+    console.error("Failed to write log:", err);
   }
 }

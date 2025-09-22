@@ -1,0 +1,27 @@
+[
+  {
+    "name": "transfermarkt",
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "tsx", "src/servers/transfermarkt-server/transfermarkt-server.ts"],
+    "cwd": "."
+  },
+
+  {
+    "name": "filesystem",
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-filesystem", "./src/fileSystem_playground"]
+  },
+
+  {
+    "name": "git",
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-github"],
+    "env": {
+      "GITHUB_PERSONAL_ACCESS_TOKEN": "GITHUB_PERSONAL_ACCESS_TOKEN"
+    }
+  }
+
+]
