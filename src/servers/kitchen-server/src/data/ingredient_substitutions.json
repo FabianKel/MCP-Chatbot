@@ -1,0 +1,4247 @@
+{
+  "papaya nectar, canned": [
+    "Apple juice, canned or bottled, unsweetened",
+    "Apple juice, frozen concentrate, unsweetened",
+    "Apples, canned, sweetened",
+    "Applesauce, canned, sweetened",
+    "Blueberries, dried, sweetened",
+    "Cranberries, dried, sweetened",
+    "Fruit cocktail, canned, heavy syrup",
+    "Nance, canned, syrup",
+    "Oil, almond",
+    "Peach nectar, canned, with sucralose",
+    "Peaches, canned, heavy syrup",
+    "Peaches, canned, heavy syrup pack",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, heavy syrup",
+    "Pears, canned, heavy syrup pack",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Plums, canned, heavy syrup",
+    "Pomegranate juice, bottled",
+    "SILK Peach soy yogurt"
+  ],
+  "orange juice, raw": [
+    "Abiyuch, raw",
+    "Acerola juice, raw",
+    "Apple juice, frozen concentrate, unsweetened",
+    "Chicken, canned, no broth",
+    "Lemon juice, raw",
+    "Lemon peel, raw",
+    "Lime juice, raw",
+    "Mangos, raw",
+    "Milk, buttermilk, fluid",
+    "Orange juice, chilled, includes from concentrate",
+    "Orange juice, frozen concentrate, unsweetened",
+    "Oranges, raw, all commercial varieties",
+    "Pineapple, canned, juice pack",
+    "Sapote, mamey, raw",
+    "Tangerine juice, raw",
+    "Tangerines, canned",
+    "Tangerines, raw",
+    "Vanilla extract",
+    "Vinegar, cider",
+    "Water convolvulus, raw"
+  ],
+  "apples, canned, sweetened": [
+    "Apple juice, canned or bottled, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Bananas, raw",
+    "Blueberries, dried, sweetened",
+    "Blueberries, raw",
+    "Celery, raw",
+    "Cranberries, dried, sweetened",
+    "Dates, medjool",
+    "Fruit cocktail, canned, heavy syrup",
+    "Milk, chocolate, fluid",
+    "Papaya nectar, canned",
+    "Peach nectar, canned, with sucralose",
+    "Peaches, canned, heavy syrup",
+    "Peaches, canned, heavy syrup pack",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Peaches, yellow, raw",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, heavy syrup",
+    "Pears, canned, heavy syrup pack",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Pears, raw",
+    "Plums, canned, heavy syrup",
+    "Plums, canned, purple",
+    "Pomegranate juice, bottled",
+    "Rhubarb, raw"
+  ],
+  "oil, almond": [
+    "Lard",
+    "Milk, dry, whole",
+    "Oil, cottonseed, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, sunflower, linoleic",
+    "Oil, wheat germ",
+    "Potato flour",
+    "SILK Coffee, soymilk",
+    "Vanilla extract",
+    "Wheat flour, whole-grain"
+  ],
+  "frankfurter, beef, unheated": [
+    "Frankfurter, meat and poultry, unheated",
+    "Mortadella, beef, pork",
+    "Pickle and pimiento loaf, pork",
+    "Pork sausage, link/patty, cooked",
+    "Sausage, pork, chorizo",
+    "Sausage, smoked link sausage, pork"
+  ],
+  "peas, edible-podded, raw": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Asparagus, raw",
+    "Barley, hulled",
+    "Basil, fresh",
+    "Beans, kidney, red",
+    "Beans, shellie, canned",
+    "Beans, snap, green",
+    "Broccoli, raw",
+    "Cabbage, raw",
+    "Capers, canned",
+    "Carrots, raw",
+    "Celery, raw",
+    "Cheese, cottage, creamed",
+    "Corn grain, yellow",
+    "Egg, whole, raw",
+    "Kale, raw",
+    "Lima beans, immature seeds, raw",
+    "Mushrooms, shiitake, raw",
+    "Peas, edible-podded, frozen",
+    "Peas, green, frozen",
+    "Peppers, sweet, yellow",
+    "Poi",
+    "Salad dressing, russian dressing",
+    "Sauerkraut, canned, solids and liquids",
+    "Spices, onion powder",
+    "Spices, pepper, black"
+  ],
+  "sauce, pasta, spaghetti/marinara": [
+    "Barley, hulled",
+    "Chard, swiss, raw",
+    "Pasta, dry, enriched",
+    "Quinoa, uncooked",
+    "Sauce, alfredo mix, dry"
+  ],
+  "tomatoes, sun-dried": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Beans, snap, green",
+    "Capers, canned",
+    "Catsup",
+    "Pasta, dry, enriched",
+    "Peppers, sweet, red",
+    "Sauce, pasta, spaghetti/marinara",
+    "Sauce, salsa, ready-to-serve",
+    "Sauce, tomato chili sauce, bottled",
+    "Soup, tomato, canned",
+    "Spearmint, dried",
+    "Spices, chili powder",
+    "Spices, pepper, red or cayenne",
+    "Squash, summer, zucchini",
+    "Tomato products, canned, paste",
+    "Tomatoes, crushed, canned"
+  ],
+  "oil, coconut": [
+    "Butter oil, anhydrous",
+    "Butter, salted",
+    "Lard",
+    "Margarine, regular, hard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Milk, canned, evaporated",
+    "Nuts, pecans",
+    "Oil, canola",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, vegetable, soybean",
+    "Oil, walnut",
+    "Peppermint, fresh",
+    "Potato flour",
+    "Shortening, vegetable, household",
+    "Soy flour, defatted",
+    "Spices, chili powder",
+    "Vanilla extract"
+  ],
+  "lime juice, raw": [
+    "Basil, fresh",
+    "Cheese, cream",
+    "Cream, whipped, cream topping",
+    "Grape juice, canned or bottled, unsweetened",
+    "Grapefruit juice, white, canned or bottled",
+    "Grapefruit juice, white, raw",
+    "Grapefruit, raw, pink and red and white",
+    "Guanabana nectar, canned",
+    "Juice, apple and grape blend, with added ascorbic acid",
+    "Lemon juice, raw",
+    "Lemons, raw, without peel",
+    "Litchis, raw",
+    "Mango nectar, canned",
+    "Orange Pineapple Juice Blend",
+    "Orange juice, chilled, includes from concentrate",
+    "Orange juice, raw",
+    "Oranges, raw, all commercial varieties",
+    "Strawberries, frozen, unsweetened",
+    "Tangerine juice, raw",
+    "Tangerines, canned",
+    "Tangerines, raw",
+    "Vinegar, red wine"
+  ],
+  "egg, whole, raw": [
+    "Applesauce, canned, unsweetened",
+    "Butter, salted",
+    "Cheese, cottage, lowfat",
+    "Chicken patty, frozen, cooked",
+    "Egg substitute, powder",
+    "Egg, whole, cooked",
+    "Fish, haddock, smoked",
+    "Luncheon meat, pork with ham, minced",
+    "Pepper, banana, raw",
+    "Soy meal, defatted, raw",
+    "Spices, anise seed",
+    "Spices, onion powder",
+    "Tofu, silken"
+  ],
+  "cheese, blue": [
+    "Cheese, Mexican blend",
+    "Cheese, brie",
+    "Cheese, feta",
+    "Cheese, goat, hard type",
+    "Cheese, gouda",
+    "Ham, sliced, pre-packaged",
+    "Onions, dehydrated flakes",
+    "Yogurt, Greek, plain"
+  ],
+  "lemon juice, raw": [
+    "Abiyuch, raw",
+    "Cheese, dry white, queso seco",
+    "Currants, red and white, raw",
+    "Grapefruit, raw, pink and red and white",
+    "Lemon juice from concentrate, canned or bottled",
+    "Lemons, raw, without peel",
+    "Lime juice, raw",
+    "Limes, raw",
+    "Melons, honeydew, raw",
+    "Nuts, coconut cream, raw",
+    "Orange juice, raw",
+    "Oranges, raw, California",
+    "Papayas, raw",
+    "Pineapple, canned, juice pack",
+    "Pineapple, frozen, chunks",
+    "Soup, stock, chicken",
+    "Spices, pepper, black",
+    "Tomato juice, canned, without salt added",
+    "Vanilla extract",
+    "Vinegar, balsamic",
+    "Vinegar, cider",
+    "Vinegar, red wine",
+    "Yambean, raw",
+    "Yogurt, Greek, plain"
+  ],
+  "currants, zante, dried": [
+    "Cranberries, dried, sweetened",
+    "Cranberries, raw",
+    "Dates, medjool",
+    "Figs, dried, stewed",
+    "Peaches, dried, sulfured",
+    "Pears, dried, sulfured",
+    "Plums, dried, stewed",
+    "Plums, dried, uncooked",
+    "Raisins, dark, seedless",
+    "Raisins, golden, seedless",
+    "Raisins, seeded"
+  ],
+  "nuts, pine nuts, dried": [
+    "Nuts, almonds",
+    "Nuts, brazilnuts, dried",
+    "Nuts, hazelnuts or filberts",
+    "Nuts, pecans",
+    "Nuts, walnuts, black",
+    "Nuts, walnuts, dry roasted",
+    "Seeds, flaxseed",
+    "Seeds, pumpkin and squash seeds, whole",
+    "Seeds, sunflower seed kernels, dried",
+    "Veal, variety meats and by-products, liver"
+  ],
+  "peppers, sweet, green": [
+    "Cabbage, raw",
+    "Celery, raw",
+    "Mushrooms, shiitake, raw",
+    "Okra, raw",
+    "Peas, edible-podded, frozen",
+    "Peas, edible-podded, raw",
+    "Pepper, banana, raw",
+    "Pepperoni, beef and pork, sliced",
+    "Peppers, jalapeno, canned",
+    "Peppers, serrano, raw",
+    "Soup, pea, green"
+  ],
+  "nuts, almonds": [
+    "Nuts, almonds, dry roasted",
+    "Nuts, brazilnuts, dried",
+    "Nuts, cashew nuts, raw",
+    "Nuts, hazelnuts or filberts",
+    "Nuts, macadamia nuts, raw",
+    "Nuts, pecans",
+    "Nuts, pine nuts, dried",
+    "Nuts, walnuts, black",
+    "Oil, coconut",
+    "Peanuts, all types, oil-roasted",
+    "Peanuts, spanish, raw",
+    "Seeds, sesame seeds, whole",
+    "Seeds, sunflower seed kernels, dried",
+    "Seeds, sunflower seed kernels, dry roasted",
+    "Soybeans, mature seeds, roasted",
+    "Spices, allspice, ground"
+  ],
+  "soup, chicken, canned": [
+    "Gravy, chicken, canned or bottled",
+    "Oscar Mayer, Chicken Breast",
+    "Soup, cream of mushroom, canned"
+  ],
+  "apricots, dried, sulfured": [
+    "Spearmint, dried"
+  ],
+  "carrots, raw": [
+    "Beans, black, mature seeds",
+    "Beans, snap, green",
+    "Carrots, canned, no salt added",
+    "Loganberries, frozen",
+    "Mushrooms, shiitake, raw",
+    "Onions, young green, tops only",
+    "Peas, edible-podded, raw",
+    "Peas, green, frozen",
+    "Peppers, sweet, green",
+    "Potatoes, hash brown, home-prepared",
+    "Spinach, raw"
+  ],
+  "cabbage, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, red, raw",
+    "Carrots, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Limes, raw",
+    "Mothbeans, mature seeds, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Sauerkraut, canned, solids and liquids",
+    "Seasoning mix, dry, sazon",
+    "Spinach, raw",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw"
+  ],
+  "cream, fluid, heavy whipping": [
+    "Cream, fluid, light",
+    "Cream, fluid, light whipping",
+    "Cream, sour, cultured",
+    "Fat, chicken",
+    "HOUSE FOODS Premium Soft Tofu",
+    "Milk, buttermilk, fluid",
+    "Milk, canned, condensed",
+    "Milk, dry, whole",
+    "Sour cream, light",
+    "Yogurt, Greek, 2%fat",
+    "Yogurt, plain, skim milk"
+  ],
+  "strawberries, raw": [
+    "Blackberries, frozen, unsweetened",
+    "Blackberries, raw",
+    "Blueberries, raw",
+    "Cranberries, raw",
+    "Grapes, american type , raw",
+    "Loganberries, frozen",
+    "Nance, canned, syrup",
+    "Pears, raw",
+    "Pineapple, frozen, chunks",
+    "Raspberries, frozen, red",
+    "Raspberries, raw",
+    "Strawberries, frozen, unsweetened"
+  ],
+  "cranberry sauce, canned, sweetened": [
+    "Catsup",
+    "Chicken spread"
+  ],
+  "asparagus, raw": [
+    "Beans, snap, green",
+    "Broccoli, raw",
+    "Carrots, raw",
+    "Celery, raw",
+    "Peas, edible-podded, raw",
+    "Squash, summer, zucchini",
+    "Tomatoes, sun-dried"
+  ],
+  "oat bran, raw": [
+    "Oil, wheat germ",
+    "Wheat bran, crude"
+  ],
+  "nuts, coconut milk, raw": [
+    "Milk, buttermilk, fluid"
+  ],
+  "milk, canned, condensed": [
+    "Milk, canned, evaporated",
+    "Milk, filled, fluid"
+  ],
+  "oil, canola": [
+    "Applesauce, canned, unsweetened",
+    "Butter oil, anhydrous",
+    "Butter, salted",
+    "Lard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, safflower, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, vegetable, soybean",
+    "Oil, walnut",
+    "Olive loaf, pork",
+    "Shortening, vegetable, household"
+  ],
+  "cheese, gruyere": [
+    "Cheese, cheddar",
+    "Cheese, cheddar, nonfat or fat free",
+    "Cheese, parmesan, hard",
+    "Cheese, pasteurized process, American",
+    "Cheese, provolone",
+    "Cheese, ricotta, whole milk",
+    "Cheese, swiss"
+  ],
+  "oil, olive, salad or cooking": [
+    "Animal fat, bacon grease",
+    "Butter oil, anhydrous",
+    "Butter, salted",
+    "Chicken, canned, no broth",
+    "Fat, chicken",
+    "Lard",
+    "Margarine, regular, hard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, PAM cooking spray, original",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, hazelnut",
+    "Oil, peanut, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, vegetable, soybean",
+    "Oil, walnut",
+    "Peanut Butter, smooth",
+    "Seeds, sesame seeds, whole",
+    "Shortening, vegetable, household"
+  ],
+  "beans, baked, canned": [
+    "Beans, kidney, red",
+    "Chili with beans, canned",
+    "Ice cream sandwich"
+  ],
+  "broccoli, raw": [
+    "Asparagus, raw",
+    "Beans, snap, green",
+    "Beet greens, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Cauliflower, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Orange juice, raw",
+    "Pears, raw",
+    "Peas and carrots, frozen, unprepared",
+    "Peas, edible-podded, frozen",
+    "Peas, edible-podded, raw",
+    "Peppers, sweet, red",
+    "Rutabagas, raw",
+    "Spinach, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "blueberries, raw": [
+    "Blackberries, raw",
+    "Cranberries, dried, sweetened",
+    "Cranberries, raw",
+    "Currants, zante, dried",
+    "Goji berries, dried",
+    "Milk, chocolate, fluid",
+    "Peaches, yellow, raw",
+    "Pepper, banana, raw",
+    "Raspberries, raw",
+    "Strawberries, frozen, unsweetened",
+    "Strawberries, raw"
+  ],
+  "loganberries, frozen": [
+    "Blackberries, raw",
+    "Blueberries, wild, frozen",
+    "Boysenberries, frozen, unsweetened",
+    "Corn grain, yellow",
+    "Egg, whole, raw",
+    "Grapefruit juice, white, canned",
+    "Raspberries, canned, red",
+    "Raspberries, raw",
+    "Strawberries, raw"
+  ],
+  "cheese, brie": [
+    "Cheese, Mexican blend",
+    "Cheese, blue",
+    "Cheese, feta",
+    "Cheese, gouda"
+  ],
+  "cheese, feta": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, blue",
+    "Cheese, brick",
+    "Cheese, cheddar",
+    "Cheese, colby",
+    "Cheese, fontina",
+    "Cheese, fresh, queso fresco",
+    "Cheese, goat, hard type",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, parmesan, grated",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat",
+    "Cheese, ricotta, whole milk",
+    "Cheese, swiss"
+  ],
+  "onions, spring or scallions, raw": [
+    "Asparagus, raw",
+    "Chives, raw",
+    "Leeks, raw",
+    "Onions, raw",
+    "Onions, yellow, sauteed",
+    "Onions, young green, tops only",
+    "Shallots, freeze-dried",
+    "Spices, onion powder"
+  ],
+  "oil, wheat germ": [
+    "Oat bran, raw",
+    "Oats",
+    "Oil, almond",
+    "Oil, coconut",
+    "Oil, cottonseed, salad or cooking",
+    "Oil, sunflower, linoleic",
+    "Seeds, flaxseed",
+    "Soy meal, defatted, raw",
+    "Spices, anise seed"
+  ],
+  "milk, chocolate, fluid": [
+    "Nance, canned, syrup",
+    "Nuts, almonds",
+    "Nuts, pecans",
+    "Nuts, walnuts, black",
+    "Oil, cocoa butter",
+    "Peanut Butter, smooth",
+    "Raisins, seeded",
+    "Shortening cake mix, soybean  and cottonseed",
+    "Spices, pumpkin pie spice"
+  ],
+  "blood sausage": [
+    "Asparagus, raw",
+    "Beef, grass-fed, ground",
+    "Bologna, pork",
+    "Chickpeas , mature seeds",
+    "Fat, chicken",
+    "Ham, minced",
+    "Kielbasa, fully cooked, grilled",
+    "Meatballs, frozen, Italian style",
+    "Mushrooms, shiitake, raw",
+    "Sausage, smoked link sausage, pork",
+    "Tofu, dried-frozen",
+    "Turkey, breast, smoked"
+  ],
+  "turnips, raw": [
+    "Beets, raw",
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Carrots, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Parsnips, raw",
+    "Rutabagas, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Yambean, raw"
+  ],
+  "nuts, pecans": [
+    "Cranberries, dried, sweetened",
+    "Dates, medjool",
+    "Milk, chocolate, fluid",
+    "Nuts, almonds",
+    "Nuts, hazelnuts or filberts",
+    "Nuts, mixed nuts, dry roasted",
+    "Nuts, pine nuts, dried",
+    "Nuts, walnuts, black",
+    "Oats",
+    "Raisins, seeded"
+  ],
+  "soy flour, defatted": [
+    "Oil, coconut",
+    "Potato flour",
+    "Rice flour, brown",
+    "Soybeans, mature seeds, roasted"
+  ],
+  "cream substitute, powdered": [
+    "Milk, chocolate, fluid",
+    "Papaya nectar, canned",
+    "Peas, edible-podded, raw"
+  ],
+  "cheese, ricotta, whole milk": [
+    "Cheese, cottage, creamed",
+    "Cheese, gruyere",
+    "Cheese, parmesan, hard",
+    "Cheese, pasteurized process, American",
+    "Tofu, dried-frozen"
+  ],
+  "pomegranate juice, bottled": [
+    "Apple juice, canned or bottled, unsweetened",
+    "Basil, fresh",
+    "Fruit cocktail, canned",
+    "Papaya nectar, canned",
+    "Peach nectar, canned, with sucralose",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Plums, canned, purple"
+  ],
+  "pears, raw": [
+    "Apples, canned, sweetened",
+    "Applesauce, canned, unsweetened",
+    "Cherries, sweet, raw"
+  ],
+  "butter, light, stick": [
+    "Butter, salted",
+    "Spices, cinnamon, ground"
+  ],
+  "nuts, almond paste": [
+    "Butter, salted"
+  ],
+  "oil, sesame, salad or cooking": [
+    "Butter oil, anhydrous",
+    "Lard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, walnut",
+    "Shortening, vegetable, household"
+  ],
+  "lard": [
+    "Butter oil, anhydrous",
+    "Butter, salted",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, walnut",
+    "Shortening frying , palm",
+    "Shortening, vegetable, household"
+  ],
+  "milk, dry, whole": [
+    "Butter, salted",
+    "Milk, buttermilk, fluid",
+    "Milk, canned, evaporated",
+    "Milk, filled, fluid",
+    "Milk, low sodium, fluid",
+    "Milk, lowfat, fluid",
+    "Milk, nonfat, fluid",
+    "Milk, reduced fat, fluid",
+    "Milk, whole, 3.25% milkfat",
+    "Oil, almond",
+    "Yogurt, plain, skim milk"
+  ],
+  "parsley, fresh": [
+    "Basil, fresh",
+    "Spices, coriander leaf, dried"
+  ],
+  "lemons, raw, without peel": [
+    "Currants, red and white, raw",
+    "Grapefruit, raw, pink and red and white",
+    "Lemon juice, raw",
+    "Limes, raw",
+    "Melons, honeydew, raw",
+    "Papayas, raw"
+  ],
+  "cauliflower, raw": [
+    "Broccoli, raw",
+    "Cabbage, raw",
+    "Nance, canned, syrup",
+    "Sweet potato leaves, raw"
+  ],
+  "kale, raw": [
+    "Beet greens, raw",
+    "Spinach, frozen, chopped or leaf",
+    "Spinach, raw"
+  ],
+  "pepper, banana, raw": [
+    "Apples, raw, fuji",
+    "Oil, coconut",
+    "Peppers, serrano, raw",
+    "Peppers, sweet, green",
+    "Peppers, sweet, red",
+    "Pumpkin, raw",
+    "Spices, savory, ground"
+  ],
+  "blackberries, raw": [
+    "Blackberries, frozen, unsweetened",
+    "Loganberries, frozen",
+    "Mulberries, raw",
+    "Peaches, yellow, raw",
+    "Persimmons, japanese, raw",
+    "Raspberries, raw",
+    "Strawberries, raw"
+  ],
+  "wheat bran, crude": [
+    "Oat bran, raw",
+    "Oil, wheat germ"
+  ],
+  "mortadella, beef, pork": [
+    "Bologna, beef",
+    "Bologna, meat and poultry",
+    "Frankfurter, chicken",
+    "Ham, minced",
+    "Pork sausage, link/patty, cooked"
+  ],
+  "bananas, raw": [
+    "Basil, fresh",
+    "Candied fruit",
+    "Plantains, yellow, baked",
+    "Plantains, yellow, raw"
+  ],
+  "milk, buttermilk, fluid": [
+    "Cream, sour, cultured",
+    "Fat, chicken",
+    "Kefir, lowfat, plain",
+    "Milk, filled, fluid",
+    "Milk, lowfat, fluid",
+    "Milk, nonfat, fluid",
+    "Milk, reduced fat, fluid",
+    "Nuts, coconut milk, raw",
+    "Sour cream, fat free",
+    "Soymilk, nonfat, with added calcium",
+    "Vinegar, cider",
+    "Yogurt, Greek, 2%fat",
+    "Yogurt, Greek, nonfat",
+    "Yogurt, Greek, plain",
+    "Yogurt, plain, skim milk"
+  ],
+  "cheese, parmesan, grated": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, brick",
+    "Cheese, cheddar",
+    "Cheese, colby",
+    "Cheese, feta",
+    "Cheese, fontina",
+    "Cheese, fresh, queso fresco",
+    "Cheese, gruyere",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat",
+    "Cheese, swiss"
+  ],
+  "noodles, flat, crunchy": [
+    "Potato flour"
+  ],
+  "cheese, swiss": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, brick",
+    "Cheese, cheddar",
+    "Cheese, colby",
+    "Cheese, feta",
+    "Cheese, fontina",
+    "Cheese, fresh, queso fresco",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, parmesan, grated",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat"
+  ],
+  "nuts, hazelnuts or filberts": [
+    "Nuts, almonds",
+    "Nuts, pecans",
+    "Nuts, pine nuts, dried",
+    "Nuts, pistachio nuts, dry roasted",
+    "Nuts, walnuts, black",
+    "Nuts, walnuts, english",
+    "Peanuts, all types, oil-roasted",
+    "Seeds, pumpkin and squash seed kernels, roasted",
+    "Seeds, sunflower seed kernels, dry roasted"
+  ],
+  "applesauce, canned, unsweetened": [
+    "Abiyuch, raw",
+    "Butter, salted",
+    "Fat, chicken",
+    "Oil, canola",
+    "Oil, olive, salad or cooking",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Pears, raw",
+    "Pepper, banana, raw",
+    "Plums, canned, purple",
+    "Potatoes, mashed, home-prepared",
+    "Prune puree",
+    "Pumpkin, raw",
+    "Squash, zucchini, baby",
+    "Strawberries, raw"
+  ],
+  "shortening, vegetable, household": [
+    "Butter oil, anhydrous",
+    "Chicken, canned, no broth",
+    "Lard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, walnut",
+    "Soup, stock, chicken"
+  ],
+  "oil, corn, industrial and retail": [
+    "Butter oil, anhydrous",
+    "Lard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, olive, salad or cooking",
+    "Oil, peanut, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, walnut",
+    "Olive loaf, pork",
+    "Shortening, vegetable, household"
+  ],
+  "cheese, cheddar": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, blue",
+    "Cheese, brick",
+    "Cheese, colby",
+    "Cheese, feta",
+    "Cheese, fontina",
+    "Cheese, fresh, queso fresco",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, parmesan, grated",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat",
+    "Cheese, swiss"
+  ],
+  "squash, summer, zucchini": [
+    "Arugula, raw",
+    "Bananas, raw",
+    "Beans, black, mature seeds",
+    "Beans, shellie, canned",
+    "Blueberries, raw",
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cauliflower, green, raw",
+    "Cauliflower, raw",
+    "Cucumber, peeled, raw",
+    "Eggplant, raw",
+    "Ham, sliced, pre-packaged",
+    "Kohlrabi, raw",
+    "Mushrooms, shiitake, raw",
+    "Nance, canned, syrup",
+    "Peppers, sweet, green",
+    "Rutabagas, raw",
+    "Spices, pepper, black",
+    "Squash, summer, all varieties",
+    "Squash, summer, scallop",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "cheese, colby": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, blue",
+    "Cheese, brick",
+    "Cheese, cheddar",
+    "Cheese, feta",
+    "Cheese, fontina",
+    "Cheese, fresh, queso fresco",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, parmesan, grated",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat",
+    "Cheese, swiss"
+  ],
+  "cheese, fontina": [
+    "Cheese food, pasteurized process, American",
+    "Cheese spread, pasteurized process, American",
+    "Cheese, blue",
+    "Cheese, brick",
+    "Cheese, cheddar",
+    "Cheese, colby",
+    "Cheese, edam",
+    "Cheese, feta",
+    "Cheese, fresh, queso fresco",
+    "Cheese, limburger",
+    "Cheese, low-sodium, cheddar or colby",
+    "Cheese, mexican, queso anejo",
+    "Cheese, mexican, queso asadero",
+    "Cheese, mexican, queso chihuahua",
+    "Cheese, monterey",
+    "Cheese, mozzarella, low moisture",
+    "Cheese, mozzarella, whole milk",
+    "Cheese, muenster",
+    "Cheese, parmesan, grated",
+    "Cheese, pasteurized process, pimento",
+    "Cheese, provolone",
+    "Cheese, provolone, reduced fat",
+    "Cheese, swiss",
+    "Cheese, white, queso blanco"
+  ],
+  "melons, honeydew, raw": [
+    "Currants, red and white, raw",
+    "Grapefruit, raw, pink and red and white",
+    "Papayas, raw",
+    "Watermelon, raw"
+  ],
+  "peppers, sweet, red": [
+    "Cranberries, raw",
+    "Mushrooms, shiitake, raw",
+    "Pepper, banana, raw",
+    "Peppers, sweet, green",
+    "Seasoning mix, dry, sazon",
+    "Spices, pepper, black"
+  ],
+  "raspberries, raw": [
+    "Blackberries, raw",
+    "Blueberries, raw",
+    "Boysenberries, frozen, unsweetened",
+    "Loganberries, frozen",
+    "Raspberries, canned, red",
+    "Strawberries, frozen, unsweetened",
+    "Strawberries, raw"
+  ],
+  "ice cream sandwich": [
+    "Ice cream sandwich, made with light ice cream, vanilla",
+    "Ice cream sandwich, vanilla, light",
+    "Milk dessert bar, frozen, made from lowfat milk",
+    "Pepper, banana, raw"
+  ],
+  "melons, cantaloupe, raw": [
+    "Pears, raw, bosc"
+  ],
+  "oil, peanut, salad or cooking": [
+    "Butter oil, anhydrous",
+    "Lard",
+    "Margarine-like, margarine-butter blend, soybean oil and butter",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Oil, vegetable, soybean",
+    "Oil, walnut",
+    "Shortening, vegetable, household"
+  ],
+  "cranberries, dried, sweetened": [
+    "Apples, canned, sweetened",
+    "Basil, fresh",
+    "Blueberries, dried, sweetened",
+    "Blueberries, raw",
+    "Cherries, tart, dried",
+    "Nuts, pecans",
+    "Papaya nectar, canned",
+    "Peaches, canned, heavy syrup",
+    "Peaches, canned, heavy syrup pack",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Peanuts, spanish, raw",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, heavy syrup",
+    "Pears, canned, heavy syrup pack",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Pears, raw",
+    "Plums, canned, heavy syrup",
+    "Plums, canned, purple",
+    "Raisins, golden, seedless",
+    "Raisins, seeded"
+  ],
+  "blueberries, dried, sweetened": [
+    "Apples, canned, sweetened",
+    "Applesauce, canned, unsweetened",
+    "Cherries, tart, dried",
+    "Cranberries, dried, sweetened",
+    "Fruit cocktail, canned, heavy syrup",
+    "Papaya nectar, canned",
+    "Peach nectar, canned, with sucralose",
+    "Peaches, canned, heavy syrup",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, heavy syrup",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Plums, canned, heavy syrup",
+    "Plums, canned, purple",
+    "Raisins, seeded"
+  ],
+  "cherries, tart, dried": [
+    "Apples, canned, sweetened",
+    "Applesauce, canned, unsweetened",
+    "Blueberries, dried, sweetened",
+    "Cranberries, dried, sweetened",
+    "Papaya nectar, canned",
+    "Peaches, canned, heavy syrup",
+    "Peaches, canned, heavy syrup pack",
+    "Peaches, canned, juice pack",
+    "Peaches, canned, light syrup pack",
+    "Pear nectar, canned, without added ascorbic acid",
+    "Pears, canned, heavy syrup",
+    "Pears, canned, heavy syrup pack",
+    "Pears, canned, juice pack",
+    "Pears, canned, light syrup pack",
+    "Plums, canned, heavy syrup",
+    "Plums, canned, purple",
+    "Raisins, seeded"
+  ],
+  "cabbage, red, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "kohlrabi, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnip greens, raw",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "tangerines, raw": [
+    "Grapefruit, sections, canned",
+    "Litchis, raw",
+    "Oranges, raw, California",
+    "Oranges, raw, all commercial varieties",
+    "Tangerine juice, raw",
+    "Tangerines, canned"
+  ],
+  "tomato juice, canned, with salt added": [
+    "Tomato juice, canned, without salt added",
+    "Tomato products, canned, paste",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Vegetable juice cocktail, canned"
+  ],
+  "vegetable juice cocktail, canned": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Soup, beef broth, bouillon",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomato juice, canned, with salt added",
+    "Tomato juice, canned, without salt added",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "kielbasa, fully cooked, grilled": [
+    "Chicken patty, frozen, cooked",
+    "Egg, whole, cooked",
+    "Luncheon meat, pork with ham, minced",
+    "Sausage, breakfast sausage, beef",
+    "Sausage, smoked link sausage, pork",
+    "Sausage, turkey, pork"
+  ],
+  "gravy, beef, canned": [
+    "Gravy, meat or poultry, low sodium",
+    "Soup, chicken, canned",
+    "Soup, onion, canned",
+    "Tofu, soft, prepared with calcium sulfate and magnesium chloride"
+  ],
+  "blueberries, canned, light syrup": [
+    "Nance, canned, syrup"
+  ],
+  "peppers, serrano, raw": [
+    "Pepper, banana, raw",
+    "Peppers, jalapeno, canned",
+    "Peppers, sweet, green"
+  ],
+  "peas, green, raw": [
+    "Edamame, frozen, unprepared"
+  ],
+  "milk, nonfat, fluid": [
+    "Milk, buttermilk, fluid",
+    "Milk, low sodium, fluid",
+    "Milk, lowfat, fluid",
+    "Milk, reduced fat, fluid"
+  ],
+  "cabbage, chinese, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Chard, swiss, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "pineapple, canned, juice pack": [
+    "Blackberries, raw",
+    "Carambola, raw",
+    "Kiwifruit, green, raw",
+    "Lime juice, raw",
+    "Litchis, raw",
+    "Pineapple, canned, heavy syrup pack",
+    "Pineapple, canned, light syrup pack",
+    "Pineapple, canned, water pack",
+    "Pineapple, raw, all varieties",
+    "Strawberries, frozen, unsweetened"
+  ],
+  "pickle and pimiento loaf, pork": [
+    "Capers, canned",
+    "Frankfurter, beef, unheated",
+    "Frankfurter, chicken",
+    "Mortadella, beef, pork",
+    "Pork sausage, link/patty, cooked"
+  ],
+  "yogurt, greek, plain": [
+    "Cream, sour, cultured"
+  ],
+  "fruit cocktail, canned": [
+    "Candied fruit",
+    "Cherries, sweet, raw",
+    "Peaches, canned, juice pack",
+    "Pears, canned, juice pack",
+    "Pears, raw"
+  ],
+  "peaches, spiced, canned": [
+    "Apricots, canned, heavy syrup pack",
+    "Apricots, canned, light syrup pack",
+    "Cherries, sweet, canned",
+    "Figs, canned, heavy syrup pack",
+    "Figs, canned, light syrup pack",
+    "Figs, canned, water pack",
+    "Fruit cocktail, canned, heavy syrup",
+    "Grapes, red or green",
+    "Kiwifruit, green, raw",
+    "Squash, zucchini, baby"
+  ],
+  "brussels sprouts, raw": [
+    "Arugula, raw",
+    "Broccoli, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "pickles, cucumber, sweet": [
+    "Capers, canned",
+    "Cranberry-orange relish, canned"
+  ],
+  "tomatoes, green, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Cauliflower, green, raw",
+    "Cress, garden, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Sauce, salsa, ready-to-serve",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomato juice, canned, with salt added",
+    "Tomato juice, canned, without salt added",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "chicken, broiler, rotisserie": [
+    "Fat, chicken",
+    "Fish, halibut, Atlantic and Pacific",
+    "Fish, salmon, pink"
+  ],
+  "raisins, dark, seedless": [
+    "Bananas, dehydrated, or banana powder",
+    "Currants, zante, dried",
+    "Figs, dried, stewed",
+    "Peaches, dried, sulfured",
+    "Peaches, spiced, canned",
+    "Pears, dried, sulfured",
+    "Plums, dried, stewed",
+    "Plums, dried, uncooked"
+  ],
+  "grape juice, canned or bottled, unsweetened": [
+    "Grapefruit juice, white, canned or bottled",
+    "Grapefruit juice, white, raw",
+    "Juice, apple and grape blend, with added ascorbic acid",
+    "Lime juice, raw",
+    "Orange Pineapple Juice Blend",
+    "Orange juice, chilled, includes from concentrate",
+    "Pineapple, canned, juice pack",
+    "Tangerine juice, raw",
+    "Vinegar, red wine"
+  ],
+  "seaweed, kelp, raw": [
+    "Beans, kidney, mature seeds",
+    "Drumstick pods, raw",
+    "Hyacinth-beans, immature seeds, raw",
+    "Jew's ear, raw",
+    "Leeks, raw",
+    "Lentils, sprouted, raw",
+    "Lettuce, iceberg, raw",
+    "Lotus root, raw",
+    "Mushrooms, shiitake, dried",
+    "Onions, spring or scallions, raw",
+    "Pepeao, dried",
+    "Seaweed, agar, dried",
+    "Seaweed, agar, raw",
+    "Seaweed, irishmoss, raw",
+    "Seaweed, laver, raw",
+    "Seaweed, wakame, raw",
+    "Squash, winter, hubbard"
+  ],
+  "fish, pollock, atlantic": [
+    "Fish, anchovy, european",
+    "Fish, bluefish, raw",
+    "Fish, butterfish, raw",
+    "Fish, cod, Atlantic",
+    "Fish, croaker, Atlantic",
+    "Fish, cusk, raw",
+    "Fish, flatfish , raw",
+    "Fish, grouper, mixed species",
+    "Fish, lingcod, raw",
+    "Fish, mackerel, Atlantic",
+    "Fish, mackerel, spanish",
+    "Fish, ocean perch, Atlantic",
+    "Fish, salmon, Atlantic",
+    "Fish, salmon, chum",
+    "Fish, sucker, white",
+    "Fish, whitefish, mixed species",
+    "Fish, whiting, mixed species",
+    "Fish, wolffish, Atlantic",
+    "Fish, yellowtail, mixed species"
+  ],
+  "wheat, durum": [
+    "Amaranth grain, uncooked",
+    "Barley malt flour",
+    "Barley, hulled",
+    "Buckwheat",
+    "Corn grain, white",
+    "Oil, almond",
+    "Oil, wheat germ",
+    "Potato flour",
+    "Rice flour, white, unenriched",
+    "Rice, white, long-grain",
+    "Rye flour, dark",
+    "Rye flour, light",
+    "Rye flour, medium",
+    "Rye grain",
+    "Sorghum grain",
+    "Wheat flour, white, bread",
+    "Wheat, hard red spring",
+    "Wheat, hard red winter",
+    "Wheat, hard white",
+    "Wheat, soft red winter",
+    "Wheat, soft white"
+  ],
+  "radish seeds, sprouted, raw": [
+    "Alfalfa seeds, sprouted, raw",
+    "Beans, kidney, mature seeds",
+    "Beans, navy, mature seeds",
+    "Beans, pinto, mature seeds",
+    "Jute, potherb, raw",
+    "Lentils, sprouted, raw",
+    "Lotus root, raw",
+    "Peas, mature seeds, sprouted",
+    "Pumpkin flowers, raw",
+    "Pumpkin leaves, raw",
+    "Radishes, oriental, raw",
+    "Radishes, raw",
+    "Radishes, white icicle, raw",
+    "Salsify, raw",
+    "Shallots, raw",
+    "Soybeans, mature seeds, sprouted",
+    "Squash, summer, scallop",
+    "Succotash, raw"
+  ],
+  "wheat flour, white, bread": [
+    "Arrowroot flour",
+    "Bologna, pork",
+    "Corn flour, whole-grain, white",
+    "Corn flour, yellow, masa",
+    "Cornmeal, white, self-rising",
+    "Cornmeal, yellow, self-rising",
+    "Lettuce, butterhead , raw",
+    "Oats",
+    "Potato flour",
+    "Rye flour, dark",
+    "Rye flour, light",
+    "Rye flour, medium",
+    "Semolina, enriched",
+    "Water convolvulus, raw",
+    "Wheat flour, white, all-purpose",
+    "Wheat flour, white, cake",
+    "Wheat flour, white, tortilla mix",
+    "Wheat flour, whole-grain",
+    "Wheat, soft red winter",
+    "Wheat, soft white"
+  ],
+  "bulgur, dry": [
+    "Broadbeans, mature seeds, raw",
+    "Buckwheat groats, roasted, cooked",
+    "Buckwheat groats, roasted, dry",
+    "Bulgur, cooked",
+    "Chicken, canned, no broth",
+    "Chickpeas , mature seeds",
+    "Lentils, raw",
+    "Millet, cooked",
+    "Millet, raw",
+    "Rice, brown, long-grain",
+    "Rice, brown, medium-grain",
+    "Rye grain",
+    "Wheat, durum"
+  ],
+  "fish, bass, striped": [
+    "Fish, cod, Pacific",
+    "Fish, mackerel, spanish",
+    "Fish, mullet, striped",
+    "Fish, roughy, orange",
+    "Fish, sea bass, mixed species",
+    "Fish, seatrout, mixed species",
+    "Fish, shark, mixed species",
+    "Fish, sheepshead, raw",
+    "Fish, snapper, mixed species",
+    "Fish, spot, raw",
+    "Fish, sturgeon, mixed species",
+    "Fish, sunfish, pumpkin seed",
+    "Fish, swordfish, cooked",
+    "Fish, swordfish, raw",
+    "Fish, tilefish, cooked",
+    "Fish, tilefish, raw",
+    "Fish, trout, mixed species"
+  ],
+  "fish, turbot, european": [
+    "Crustaceans, crab, dungeness",
+    "Fish, bass, fresh water",
+    "Fish, carp, raw",
+    "Fish, cisco, raw",
+    "Fish, cod, Pacific",
+    "Fish, cusk, raw",
+    "Fish, drum, freshwater",
+    "Fish, eel, mixed species",
+    "Fish, flatfish , cooked",
+    "Fish, flatfish , raw",
+    "Fish, haddock, raw",
+    "Fish, halibut, Greenland",
+    "Fish, mackerel, Atlantic",
+    "Fish, mahimahi, raw",
+    "Fish, pollock, Alaska",
+    "Fish, pompano, florida",
+    "Fish, salmon, chum",
+    "Fish, salmon, coho",
+    "Fish, sheepshead, raw"
+  ],
+  "seaweed, agar, raw": [
+    "Alfalfa seeds, sprouted, raw",
+    "Arrowhead, raw",
+    "Balsam-pear, pods, raw",
+    "Bamboo shoots, raw",
+    "Broccoli, stalks, raw",
+    "Corn, sweet, white",
+    "Drumstick pods, raw",
+    "Jew's ear, raw",
+    "Mushrooms, shiitake, dried",
+    "Pepeao, dried",
+    "Seaweed, agar, dried",
+    "Seaweed, irishmoss, raw",
+    "Seaweed, kelp, raw",
+    "Seaweed, laver, raw",
+    "Seaweed, wakame, raw",
+    "Squash, winter, acorn",
+    "Squash, winter, all varieties",
+    "Winged bean leaves, raw"
+  ],
+  "semolina, enriched": [
+    "Corn flour, yellow, masa",
+    "Cornmeal, degermed, enriched",
+    "Rice flour, white, unenriched",
+    "Rye flour, light",
+    "Rye flour, medium",
+    "Semolina, unenriched",
+    "Wheat flour, white, all-purpose",
+    "Wheat flour, white, bread",
+    "Wheat flour, white, cake"
+  ],
+  "water convolvulus, raw": [
+    "Cabbage, chinese, raw",
+    "Cabbage, common (danish, domestic)",
+    "Cabbage, red, raw",
+    "Cabbage, savoy, raw",
+    "Lettuce, butterhead , raw",
+    "Lettuce, cos or romaine, raw",
+    "Lettuce, iceberg, raw",
+    "Seaweed, spirulina, raw",
+    "Soybeans, mature seeds, sprouted",
+    "Spinach, raw",
+    "Squash, summer, scallop",
+    "Squash, winter, spaghetti",
+    "Succotash, raw",
+    "Sweet potato leaves, raw",
+    "Taro, raw",
+    "Water convolvulus, cooked, boiled"
+  ],
+  "potato flour": [
+    "Arrowroot flour",
+    "Barley, hulled",
+    "Basil, fresh",
+    "Buckwheat flour, whole-groat",
+    "Bulgur, dry",
+    "Carob flour",
+    "Corn flour, whole-grain, white",
+    "Corn flour, whole-grain, yellow",
+    "Corn grain, yellow",
+    "Cornmeal, whole-grain, yellow",
+    "Cornstarch",
+    "Nuts, almonds",
+    "Oat flour, partially debranned",
+    "Oil, almond",
+    "Oil, coconut",
+    "Potatoes, hash brown, frozen",
+    "Potatoes, scalloped, dry mix",
+    "Rice flour, brown",
+    "Rice flour, white, unenriched",
+    "Rye flour, dark",
+    "Seasoning mix, dry, sazon",
+    "Seeds, sesame flour, high-fat",
+    "Seeds, sesame flour, low-fat",
+    "Seeds, sesame flour, partially defatted",
+    "Seeds, sesame meal, partially defatted",
+    "Sorghum grain",
+    "Soy flour, low-fat",
+    "Soy meal, defatted, raw",
+    "Tapioca, pearl, dry",
+    "Wheat flour, white, bread",
+    "Wheat flour, white, cake",
+    "Wheat flour, white, tortilla mix",
+    "Wheat flour, whole-grain",
+    "Wheat, durum"
+  ],
+  "chives, raw": [
+    "Beet greens, raw",
+    "Chicory greens, raw",
+    "Chicory roots, raw",
+    "Chicory, witloof, raw",
+    "Chives, freeze-dried",
+    "Collards, raw",
+    "Coriander leaves, raw",
+    "Cornsalad, raw",
+    "Cowpeas, leafy tips, raw",
+    "Dock, raw",
+    "Drumstick leaves, raw",
+    "Endive, raw",
+    "Ginger root, raw",
+    "Lambsquarters, raw",
+    "Mustard spinach, raw",
+    "Onions, raw",
+    "Onions, spring or scallions, raw",
+    "Onions, young green, tops only",
+    "Spearmint, dried",
+    "Spices, coriander leaf, dried",
+    "Spices, onion powder",
+    "Turnip greens, raw",
+    "Winged bean leaves, raw"
+  ],
+  "mollusks, squid, mixed species": [
+    "Cheese, cottage, lowfat",
+    "Egg, whole, raw",
+    "Fish, haddock, smoked",
+    "Jerusalem-artichokes, raw",
+    "Mollusks, clam, mixed species",
+    "Mollusks, octopus, common",
+    "Mollusks, oyster, eastern",
+    "Mollusks, scallop, mixed species",
+    "Mushrooms, white, raw",
+    "Soup, clam chowder, manhattan style",
+    "Soymilk, nonfat, with added calcium"
+  ],
+  "wheat flour, white, cake": [
+    "Corn flour, yellow, masa",
+    "Cornmeal, degermed, enriched",
+    "Cornmeal, yellow, self-rising",
+    "Gravy, brown instant, dry",
+    "Potato flour",
+    "Rice, white, long-grain",
+    "Rice, white, medium-grain",
+    "Rice, white, short-grain",
+    "Semolina, enriched",
+    "Wheat flour, white, all-purpose",
+    "Wheat flour, white, bread",
+    "Wheat flour, white, tortilla mix",
+    "Wheat, soft red winter"
+  ],
+  "millet, raw": [
+    "Barley, pearled, raw",
+    "Millet, cooked",
+    "Noodles, japanese, soba",
+    "Nuts, chestnuts, japanese",
+    "Nuts, hazelnuts or filberts, blanched",
+    "Nuts, macadamia nuts, raw",
+    "Oats",
+    "Oil, rice bran",
+    "Pasta, gluten-free, corn",
+    "Peanuts, spanish, raw",
+    "Quinoa, uncooked",
+    "Rice, brown, long-grain",
+    "Rice, brown, medium-grain",
+    "Rye grain",
+    "Triticale"
+  ],
+  "salad dressing, french dressing, commercial": [
+    "Salad dressing, ranch dressing, regular",
+    "Salad dressing, sesame seed dressing, regular"
+  ],
+  "barley, hulled": [
+    "Amaranth grain, uncooked",
+    "Barley, pearled, cooked",
+    "Barley, pearled, raw",
+    "Buckwheat",
+    "Corn grain, white",
+    "Corn grain, yellow",
+    "Oil, rice bran",
+    "Rice, brown, long-grain",
+    "Rice, brown, medium-grain",
+    "Sorghum grain",
+    "Spelt, uncooked",
+    "Succotash, raw",
+    "Wheat, durum",
+    "Wheat, hard red spring",
+    "Wheat, hard red winter",
+    "Wheat, hard white",
+    "Wheat, soft red winter",
+    "Wheat, soft white",
+    "Wheat, sprouted",
+    "Wild rice, cooked",
+    "Wild rice, raw"
+  ],
+  "okra, raw": [
+    "Beans, snap, green",
+    "Beans, snap, yellow",
+    "Cowpeas, young pods with seeds, raw",
+    "Egg, whole, raw",
+    "Hyacinth-beans, immature seeds, raw",
+    "Okra, cooked, boiled",
+    "Okra, frozen, cooked",
+    "Okra, frozen, unprepared",
+    "Peas, edible-podded, boiled",
+    "Peas, edible-podded, cooked",
+    "Peas, edible-podded, frozen",
+    "Pigeonpeas, immature seeds, raw",
+    "Pumpkin leaves, raw",
+    "Spinach, raw",
+    "Yardlong bean, raw"
+  ],
+  "chard, swiss, raw": [
+    "Amaranth leaves, raw",
+    "Balsam-pear, leafy tips, raw",
+    "Basil, fresh",
+    "Borage, raw",
+    "Celtuce, raw",
+    "Chicory, witloof, raw",
+    "Cowpeas, leafy tips, raw",
+    "Drumstick leaves, raw",
+    "Endive, raw",
+    "Kale, raw",
+    "Pumpkin leaves, raw",
+    "Spinach, frozen, chopped or leaf",
+    "Spinach, raw",
+    "Succotash, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Taro, tahitian, raw",
+    "Turnip greens, raw",
+    "Vinespinach, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw"
+  ],
+  "couscous, dry": [
+    "Cornmeal, degermed, unenriched",
+    "Couscous, cooked",
+    "Noodles, egg, dry",
+    "Noodles, egg, spinach",
+    "Noodles, japanese, somen",
+    "Oil, rice bran",
+    "Pasta, dry, enriched",
+    "Pasta, dry, unenriched",
+    "Pasta, whole-wheat, dry",
+    "Quinoa, uncooked",
+    "Rice, white, glutinous",
+    "Seeds, cottonseed meal, partially defatted",
+    "Spaghetti, spinach, dry"
+  ],
+  "quinoa, uncooked": [
+    "Barley, hulled",
+    "Millet, raw",
+    "Noodles, japanese, soba",
+    "Pasta, gluten-free, corn",
+    "Rye grain",
+    "Seeds, safflower seed kernels, dried",
+    "Wheat, hard red spring"
+  ],
+  "nuts, mixed nuts, dry roasted": [
+    "Nuts, cashew nuts, oil roasted",
+    "Nuts, hazelnuts or filberts, dry roasted",
+    "Nuts, mixed nuts, oil roasted",
+    "Nuts, pecans, dry roasted",
+    "Nuts, pecans, oil roasted",
+    "Seeds, pumpkin and squash seeds, whole"
+  ],
+  "endive, raw": [
+    "Amaranth leaves, raw",
+    "Beet greens, raw",
+    "Borage, raw",
+    "Broccoli, leaves, raw",
+    "Celtuce, raw",
+    "Chard, swiss, raw",
+    "Chicory greens, raw",
+    "Chicory, witloof, raw",
+    "Chives, raw",
+    "Collards, raw",
+    "Coriander leaves, raw",
+    "Cowpeas, leafy tips, raw",
+    "Dock, raw",
+    "Drumstick leaves, raw",
+    "Lambsquarters, raw",
+    "Mustard spinach, raw",
+    "Pumpkin leaves, raw",
+    "Sweet potato leaves, raw"
+  ],
+  "rye grain": [
+    "Millet, raw",
+    "Pasta, gluten-free, corn",
+    "Quinoa, uncooked",
+    "Rye flour, light",
+    "Sorghum grain",
+    "Wheat, hard red spring",
+    "Wheat, hard red winter",
+    "Wheat, hard white",
+    "Wheat, soft red winter",
+    "Wheat, soft white"
+  ],
+  "spinach, raw": [
+    "Amaranth leaves, raw",
+    "Arugula, raw",
+    "Beet greens, raw",
+    "Borage, raw",
+    "Broccoli, frozen, chopped",
+    "Broccoli, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, napa, cooked",
+    "Chard, swiss, raw",
+    "Chicory, witloof, raw",
+    "Collards, raw",
+    "Corn grain, yellow",
+    "Dock, raw",
+    "Egg, whole, raw",
+    "Jute, potherb, raw",
+    "Kale, raw",
+    "Lard",
+    "Mustard greens, raw",
+    "Mustard spinach, raw",
+    "Pasta, dry, enriched",
+    "Peas, edible-podded, frozen",
+    "Peas, edible-podded, raw",
+    "Pumpkin leaves, raw",
+    "Spinach, frozen, chopped or leaf",
+    "Squash, summer, zucchini",
+    "Succotash, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Turnip greens, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw"
+  ],
+  "blackberry juice, canned": [
+    "Lemon juice, raw"
+  ],
+  "mollusks, abalone, mixed species": [
+    "Crustaceans, crab, alaska king",
+    "Crustaceans, shrimp, mixed species",
+    "Fish, cod, Atlantic",
+    "Fish, croaker, Atlantic",
+    "Fish, mackerel, Atlantic",
+    "Fish, ocean perch, Atlantic",
+    "Fish, salmon, Atlantic",
+    "Fish, salmon, chum",
+    "Fish, sea bass, mixed species",
+    "Fish, shad, american",
+    "Fish, shark, mixed species",
+    "Fish, whitefish, mixed species",
+    "Fish, whiting, mixed species",
+    "Fish, wolffish, Atlantic",
+    "Fish, yellowtail, mixed species",
+    "Mollusks, cuttlefish, mixed species",
+    "Mollusks, oyster, Pacific",
+    "Mollusks, whelk, unspecified"
+  ],
+  "yam, raw": [
+    "Arrowhead, raw",
+    "Beans, snap, yellow",
+    "Burdock root, raw",
+    "Cassava, raw",
+    "Celeriac, raw",
+    "Chicory roots, raw",
+    "Chicory, witloof, raw",
+    "Ginger root, raw",
+    "Lotus root, raw",
+    "Mountain yam, hawaii, raw",
+    "Onions, raw",
+    "Onions, welsh, raw",
+    "Parsnips, raw",
+    "Potatoes, flesh and skin, raw",
+    "Radishes, white icicle, raw",
+    "Salsify, raw",
+    "Shallots, raw",
+    "Sweet potato, raw, unprepared",
+    "Taro, raw"
+  ],
+  "sweet potato leaves, raw": [
+    "Amaranth leaves, raw",
+    "Basil, fresh",
+    "Beet greens, raw",
+    "Borage, raw",
+    "Cabbage, raw",
+    "Celery, raw",
+    "Chard, swiss, raw",
+    "Dock, raw",
+    "Drumstick leaves, raw",
+    "Endive, raw",
+    "Lime juice, raw",
+    "Pepper, banana, raw",
+    "Potato flour",
+    "Pumpkin leaves, raw",
+    "Spices, poultry seasoning",
+    "Spinach, raw",
+    "Sweet potato, raw, unprepared",
+    "Taro leaves, raw",
+    "Taro, raw",
+    "Thyme, fresh",
+    "Turnip greens, raw",
+    "Vinespinach, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw",
+    "Yam, raw"
+  ],
+  "crustaceans, crayfish, mixed species": [
+    "Crustaceans, crab, alaska king",
+    "Crustaceans, crab, blue",
+    "Crustaceans, crab, dungeness",
+    "Crustaceans, crab, queen",
+    "Crustaceans, lobster, northern",
+    "Crustaceans, spiny lobster, mixed species",
+    "Fish, cusk, raw",
+    "Fish, eel, mixed species",
+    "Fish, flatfish , raw",
+    "Fish, halibut, Greenland",
+    "Fish, salmon, coho"
+  ],
+  "sorghum grain": [
+    "Amaranth grain, uncooked",
+    "Barley, hulled",
+    "Corn grain, white",
+    "Oats",
+    "Oil, almond",
+    "Pasta, gluten-free, corn",
+    "Quinoa, uncooked",
+    "Rye flour, dark",
+    "Rye flour, light",
+    "Rye flour, medium",
+    "Rye grain",
+    "Soy flour, defatted",
+    "Triticale",
+    "Wheat, durum",
+    "Wheat, hard red spring",
+    "Wheat, hard red winter",
+    "Wheat, hard white",
+    "Wheat, soft red winter",
+    "Wheat, soft white"
+  ],
+  "catsup": [
+    "Catsup, low sodium",
+    "Fat, chicken",
+    "Milk, filled, fluid",
+    "Pineapple, frozen, chunks",
+    "Sauce, barbecue",
+    "Sauce, chili, peppers",
+    "Sauce, hoisin, ready-to-serve",
+    "Sauce, salsa, ready-to-serve",
+    "Sauce, tomato chili sauce, bottled",
+    "Tomato products, canned, paste",
+    "Tomatoes, sun-dried"
+  ],
+  "seeds, sesame seeds, whole": [
+    "Oats",
+    "Oil, vegetable, soybean",
+    "Seeds, flaxseed",
+    "Seeds, pumpkin and squash seed kernels, dried",
+    "Seeds, pumpkin and squash seeds, whole",
+    "Seeds, safflower seed kernels, dried",
+    "Seeds, sesame flour, low-fat",
+    "Seeds, sesame flour, partially defatted",
+    "Seeds, sesame meal, partially defatted",
+    "Seeds, sesame seed kernels, dried",
+    "Seeds, sisymbrium sp. seeds, whole",
+    "Seeds, sunflower seed kernels, dried"
+  ],
+  "lentils, raw": [
+    "Beans, black, mature seeds",
+    "Beans, french, mature seeds",
+    "Beans, great northern, mature seeds",
+    "Beans, kidney, all types",
+    "Beans, kidney, california red",
+    "Beans, kidney, red",
+    "Beans, pink, mature seeds",
+    "Beans, shellie, canned",
+    "Beans, yellow, mature seeds",
+    "Broadbeans, mature seeds, raw",
+    "Chickpeas , mature seeds",
+    "Hyacinth beans, mature seeds, raw",
+    "Lima beans, large, mature seeds",
+    "Lima beans, thin seeded , mature seeds",
+    "Lupins, mature seeds, raw",
+    "Mothbeans, mature seeds, raw",
+    "Mung beans, mature seeds, raw",
+    "Mungo beans, mature seeds, raw",
+    "Peas, green, split",
+    "Pigeon peas , mature seeds, raw"
+  ],
+  "ice cream, bar or stick, chocolate covered": [
+    "Ice cream, soft serve, chocolate"
+  ],
+  "soy sauce made from soy": [
+    "Oil, sesame, salad or cooking",
+    "Soy sauce made from hydrolyzed vegetable protein",
+    "Soy sauce made from soy and wheat"
+  ],
+  "chayote, fruit, raw": [
+    "Burdock root, raw",
+    "Butterbur, raw",
+    "Cardoon, raw",
+    "Cassava, raw",
+    "Celeriac, raw",
+    "Celery, raw",
+    "Celtuce, raw",
+    "Chayote, fruit, cooked",
+    "Cucumber, with peel, raw",
+    "Squash, summer, crookneck and straightneck",
+    "Squash, summer, scallop"
+  ],
+  "borage, raw": [
+    "Amaranth leaves, raw",
+    "Balsam-pear, leafy tips, raw",
+    "Beet greens, raw",
+    "Borage, cooked, boiled",
+    "Broccoli, leaves, raw",
+    "Celtuce, raw",
+    "Chard, swiss, raw",
+    "Chicory greens, raw",
+    "Chicory, witloof, raw",
+    "Collards, raw",
+    "Dock, raw",
+    "Jute, potherb, raw",
+    "Lambsquarters, raw",
+    "Mustard spinach, raw",
+    "Spinach, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw"
+  ],
+  "falafel, home-prepared": [
+    "Broadbeans, immature seeds, cooked",
+    "Broadbeans, mature seeds, cooked",
+    "Hummus, home prepared"
+  ],
+  "fish, haddock, raw": [
+    "Fish, anchovy, european",
+    "Fish, bass, fresh water",
+    "Fish, cusk, raw",
+    "Fish, drum, freshwater",
+    "Fish, eel, mixed species",
+    "Fish, flatfish , raw",
+    "Fish, grouper, mixed species",
+    "Fish, haddock, cooked",
+    "Fish, halibut, Greenland",
+    "Fish, lingcod, raw",
+    "Fish, mackerel, king",
+    "Fish, milkfish, raw",
+    "Fish, pike, northern",
+    "Fish, pompano, florida",
+    "Fish, salmon, Atlantic",
+    "Fish, salmon, chum",
+    "Fish, salmon, coho",
+    "Fish, swordfish, raw",
+    "Fish, turbot, european",
+    "Ham, honey, smoked"
+  ],
+  "tofu, dried-frozen": [
+    "Chickpeas , mature seeds",
+    "Crustaceans, shrimp, raw",
+    "Gravy, mushroom, canned",
+    "Mushrooms, oyster, raw",
+    "Okara",
+    "Soybeans, mature seeds, raw",
+    "Squash, summer, zucchini",
+    "Tempeh",
+    "Tofu, dried-frozen , prepared with calcium sulfate",
+    "Tofu, firm, prepared with calcium sulfate and magnesium chloride",
+    "Tofu, fried",
+    "Tofu, fried, prepared with calcium sulfate",
+    "Tofu, raw, firm",
+    "Tofu, raw, regular",
+    "Tofu, salted and fermented",
+    "Tofu, salted and fermented , prepared with calcium sulfate"
+  ],
+  "fish, catfish, channel": [
+    "Fish, bluefish, raw",
+    "Fish, burbot, raw",
+    "Fish, butterfish, raw",
+    "Fish, carp, raw",
+    "Fish, flatfish , raw",
+    "Fish, lingcod, raw",
+    "Fish, mackerel, Atlantic",
+    "Fish, mackerel, spanish",
+    "Fish, ocean perch, Atlantic",
+    "Fish, pike, northern",
+    "Fish, rockfish, Pacific",
+    "Fish, salmon, chum",
+    "Fish, tilefish, raw",
+    "Fish, trout, rainbow",
+    "Fish, tuna, fresh",
+    "Fish, whitefish, mixed species",
+    "Fish, whiting, mixed species",
+    "Fish, wolffish, Atlantic"
+  ],
+  "fish, grouper, mixed species": [
+    "Fish, anchovy, european",
+    "Fish, bass, fresh water",
+    "Fish, carp, raw",
+    "Fish, cusk, raw",
+    "Fish, drum, freshwater",
+    "Fish, eel, mixed species",
+    "Fish, flatfish , raw",
+    "Fish, haddock, raw",
+    "Fish, halibut, Greenland",
+    "Fish, lingcod, raw",
+    "Fish, mackerel, Pacific and jack",
+    "Fish, mackerel, king",
+    "Fish, milkfish, raw",
+    "Fish, perch, mixed species",
+    "Fish, pompano, florida",
+    "Fish, pout, ocean",
+    "Fish, sablefish, raw",
+    "Fish, salmon, chum",
+    "Fish, salmon, coho"
+  ],
+  "fish, trout, rainbow": [
+    "Fish, carp, raw",
+    "Fish, flatfish , raw",
+    "Fish, mackerel, Pacific and jack",
+    "Fish, mackerel, spanish",
+    "Fish, mullet, striped",
+    "Fish, perch, mixed species",
+    "Fish, pike, northern",
+    "Fish, rockfish, Pacific",
+    "Fish, sablefish, raw",
+    "Fish, salmon, sockeye",
+    "Fish, sea bass, mixed species",
+    "Fish, sheepshead, raw",
+    "Fish, smelt, rainbow",
+    "Fish, snapper, mixed species",
+    "Fish, sunfish, pumpkin seed",
+    "Fish, swordfish, raw",
+    "Fish, tilefish, raw",
+    "Fish, tuna, fresh"
+  ],
+  "miso": [
+    "Hummus, home prepared",
+    "Okara",
+    "Soy sauce made from soy",
+    "Soy sauce made from soy and wheat"
+  ],
+  "cress, garden, raw": [
+    "Broccoli, raw",
+    "Brussels sprouts, raw",
+    "Cabbage, chinese, raw",
+    "Cabbage, raw",
+    "Cabbage, red, raw",
+    "Dandelion greens, raw",
+    "Kale, raw",
+    "Kohlrabi, raw",
+    "Mustard greens, raw",
+    "Rutabagas, raw",
+    "Squash, summer, all varieties",
+    "Squash, summer, zucchini",
+    "Tomatoes, green, raw",
+    "Tomatoes, red, ripe",
+    "Turnips, raw",
+    "Yambean, raw"
+  ],
+  "beef, grass-fed, ground": [
+    "Beef, brisket, flat half",
+    "Bison, ground, grass-fed",
+    "Blood sausage",
+    "Chicken, ground, crumbles",
+    "Chicken, ground, raw",
+    "Chicken, skin , cooked",
+    "Egg, whole, raw",
+    "Fat, turkey",
+    "Game meat, deer, ground",
+    "Lamb, leg, whole",
+    "Mushrooms, shiitake, raw",
+    "Oscar Mayer, Chicken Breast",
+    "Pork, fresh, ground",
+    "Sausage, turkey, breakfast links",
+    "Seasoning mix, dry, taco",
+    "Tempeh",
+    "Turkey, Ground, raw",
+    "Turkey, ground, 93% lean",
+    "Turkey, whole, breast"
+  ],
+  "game meat, rabbit, domesticated": [
+    "Fat, chicken",
+    "Game meat, antelope, raw",
+    "Game meat, bear, raw",
+    "Game meat, beefalo, composite of cuts",
+    "Game meat, bison, separable lean only",
+    "Game meat, boar, wild",
+    "Game meat, buffalo, water",
+    "Game meat, caribou, raw",
+    "Game meat, deer, raw",
+    "Game meat, goat, raw",
+    "Game meat, horse, raw",
+    "Game meat, moose, raw",
+    "Game meat, muskrat, raw",
+    "Game meat, rabbit, wild",
+    "Game meat, raccoon, cooked",
+    "Game meat, squirrel, raw"
+  ],
+  "corn grain, yellow": [
+    "Barley, hulled",
+    "Beans, pinto, canned",
+    "Beet greens, raw",
+    "Carrot, dehydrated",
+    "Chili with beans, canned",
+    "Corn flour, whole-grain, yellow",
+    "Cornmeal, whole-grain, yellow",
+    "Cowpeas , immature seeds, raw",
+    "Cowpeas, young pods with seeds, raw",
+    "Hominy, canned, white",
+    "Nance, canned, syrup",
+    "Oil, rice bran",
+    "Papaya nectar, canned",
+    "Peas, edible-podded, frozen",
+    "Peas, edible-podded, raw",
+    "Peas, green, raw",
+    "Potato flour",
+    "Raisins, golden, seedless",
+    "Rice, brown, long-grain",
+    "Soybeans, green, raw"
+  ],
+  "amaranth leaves, raw": [
+    "Amaranth grain, uncooked",
+    "Arrowhead, raw",
+    "Balsam-pear, leafy tips, raw",
+    "Balsam-pear, pods, raw",
+    "Beet greens, raw",
+    "Borage, raw",
+    "Broccoli, leaves, raw",
+    "Chard, swiss, raw",
+    "Chicory, witloof, raw",
+    "Dock, raw",
+    "Endive, raw",
+    "Lambsquarters, raw",
+    "Mustard spinach, raw",
+    "Pumpkin leaves, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Vinespinach, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw"
+  ],
+  "eggplant, raw": [
+    "Carrots, raw",
+    "Cowpeas, leafy tips, raw",
+    "Cowpeas, young pods with seeds, raw",
+    "Dock, raw",
+    "Drumstick leaves, raw",
+    "Drumstick pods, raw",
+    "Eggplant, cooked, boiled",
+    "Endive, raw",
+    "Hyacinth-beans, immature seeds, raw",
+    "Jew's ear, raw",
+    "Pumpkin, raw",
+    "Spearmint, dried",
+    "Squash, summer, crookneck and straightneck",
+    "Squash, summer, zucchini"
+  ],
+  "mollusks, cuttlefish, mixed species": [
+    "Crustaceans, crab, dungeness",
+    "Crustaceans, shrimp, mixed species",
+    "Fish, bass, fresh water",
+    "Fish, cisco, raw",
+    "Fish, cusk, raw",
+    "Fish, eel, mixed species",
+    "Fish, flatfish , raw",
+    "Fish, mackerel, Pacific and jack",
+    "Fish, mahimahi, raw",
+    "Fish, perch, mixed species",
+    "Fish, pike, northern",
+    "Fish, pompano, florida",
+    "Fish, rockfish, Pacific",
+    "Fish, roughy, orange",
+    "Fish, salmon, chum",
+    "Fish, salmon, coho",
+    "Fish, shark, mixed species",
+    "Mollusks, abalone, mixed species",
+    "Mollusks, oyster, Pacific",
+    "Mollusks, whelk, unspecified"
+  ],
+  "lettuce, butterhead , raw": [
+    "Arugula, raw",
+    "Broccoli, flower clusters, raw",
+    "Brussels sprouts, frozen, cooked",
+    "Brussels sprouts, frozen, unprepared",
+    "Butterbur, raw",
+    "Cabbage, common (danish, domestic)",
+    "Cabbage, raw",
+    "Cabbage, savoy, raw",
+    "Cardoon, raw",
+    "Celery, raw",
+    "Celtuce, raw",
+    "Collards, raw",
+    "Lettuce, cos or romaine, raw",
+    "Lettuce, green leaf, raw",
+    "Lettuce, iceberg, raw",
+    "Sauce, pasta, spaghetti/marinara",
+    "Spinach, raw",
+    "Water convolvulus, raw"
+  ],
+  "bamboo shoots, raw": [
+    "Arrowhead, raw",
+    "Artichokes, raw",
+    "Asparagus, canned, drained solids",
+    "Asparagus, frozen, unprepared",
+    "Balsam-pear, pods, raw",
+    "Bamboo shoots, canned, drained solids",
+    "Bamboo shoots, cooked, boiled",
+    "Beans, snap, green",
+    "Cabbage, raw",
+    "Pokeberry shoots, raw",
+    "Taro shoots, raw",
+    "Taro, raw"
+  ],
+  "watercress, raw": [
+    "Amaranth leaves, raw",
+    "Arugula, raw",
+    "Beet greens, raw",
+    "Borage, raw",
+    "Broccoli, leaves, raw",
+    "Cabbage, napa, cooked",
+    "Chard, swiss, raw",
+    "Chicory greens, raw",
+    "Chicory, witloof, raw",
+    "Collards, raw",
+    "Dock, raw",
+    "Endive, raw",
+    "Jute, potherb, raw",
+    "Lettuce, cos or romaine, raw",
+    "Mustard spinach, raw",
+    "Spices, coriander leaf, dried",
+    "Spinach, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Turnip greens, raw",
+    "Vinespinach, raw",
+    "Waxgourd, raw",
+    "Winged bean leaves, raw"
+  ],
+  "cassava, raw": [
+    "Arrowhead, raw",
+    "Burdock root, raw",
+    "Celeriac, raw",
+    "Chayote, fruit, raw",
+    "Chicory greens, raw",
+    "Chicory roots, raw",
+    "Lotus root, raw",
+    "Mountain yam, hawaii, raw",
+    "Onions, raw",
+    "Onions, welsh, raw",
+    "Parsnips, raw",
+    "Potatoes, flesh and skin, raw",
+    "Radishes, oriental, raw",
+    "Radishes, white icicle, raw",
+    "Salsify, raw",
+    "Shallots, raw",
+    "Sweet potato, raw, unprepared",
+    "Taro, raw",
+    "Waterchestnuts, chinese",
+    "Yam, raw"
+  ],
+  "fish, lingcod, raw": [
+    "Fish, bass, fresh water",
+    "Fish, catfish, channel",
+    "Fish, cod, Pacific",
+    "Fish, drum, freshwater",
+    "Fish, grouper, mixed species",
+    "Fish, haddock, raw",
+    "Fish, halibut, Greenland",
+    "Fish, herring, Pacific",
+    "Fish, ling, raw",
+    "Fish, mackerel, Pacific and jack",
+    "Fish, mackerel, king",
+    "Fish, milkfish, raw",
+    "Fish, monkfish, raw",
+    "Fish, pike, northern",
+    "Fish, pout, ocean",
+    "Fish, rockfish, Pacific",
+    "Fish, roughy, orange",
+    "Fish, shark, mixed species",
+    "Fish, smelt, rainbow",
+    "Fish, wolffish, Atlantic"
+  ],
+  "crustaceans, crab, blue": [
+    "Crustaceans, crab, alaska king",
+    "Crustaceans, crab, dungeness",
+    "Crustaceans, crab, queen",
+    "Crustaceans, crayfish, mixed species",
+    "Crustaceans, lobster, northern",
+    "Crustaceans, spiny lobster, mixed species",
+    "Egg, whole, raw",
+    "Fish, bluefish, raw",
+    "Fish, burbot, raw",
+    "Fish, butterfish, raw",
+    "Fish, carp, raw",
+    "Fish, catfish, channel",
+    "Fish, cod, Atlantic",
+    "Fish, mackerel, Atlantic",
+    "Fish, mackerel, Pacific and jack",
+    "Fish, ocean perch, Atlantic",
+    "Fish, tuna, fresh",
+    "Frankfurter, meat",
+    "Ham, honey, smoked",
+    "Mollusks, cuttlefish, mixed species"
+  ],
+  "fish, swordfish, raw": [
+    "Fish, bass, striped",
+    "Fish, flatfish , raw",
+    "Fish, mackerel, spanish",
+    "Fish, mullet, striped",
+    "Fish, pike, northern",
+    "Fish, roughy, orange",
+    "Fish, sea bass, mixed species",
+    "Fish, shark, mixed species",
+    "Fish, sheepshead, cooked",
+    "Fish, sheepshead, raw",
+    "Fish, snapper, mixed species",
+    "Fish, spot, raw",
+    "Fish, sturgeon, mixed species",
+    "Fish, swordfish, cooked",
+    "Fish, tilefish, raw",
+    "Fish, trout, mixed species",
+    "Fish, whiting, mixed species"
+  ],
+  "turnip greens, raw": [
+    "Beet greens, raw",
+    "Celtuce, raw",
+    "Chicory greens, raw",
+    "Chicory, witloof, raw",
+    "Collards, raw",
+    "Cowpeas, leafy tips, raw",
+    "Jute, potherb, raw",
+    "Onions, welsh, raw",
+    "Potato flour",
+    "Pumpkin leaves, raw",
+    "Seaweed, wakame, raw",
+    "Spinach, raw",
+    "Sweet potato leaves, raw",
+    "Taro leaves, raw",
+    "Turnip greens, frozen, unprepared",
+    "Vinespinach, raw",
+    "Watercress, raw",
+    "Winged bean leaves, raw"
+  ],
+  "spices, tarragon, dried": [
+    "Basil, fresh",
+    "Rosemary, fresh",
+    "Seeds, flaxseed",
+    "Spices, basil, dried",
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed",
+    "Spices, fennel seed",
+    "Spices, marjoram, dried",
+    "Spices, oregano, dried",
+    "Spices, thyme, dried",
+    "Thyme, fresh"
+  ],
+  "carrot, dehydrated": [
+    "Broccoli, raw",
+    "Mushrooms, shiitake, raw",
+    "Peppers, sweet, red",
+    "Pork, bacon, rendered fat",
+    "Vinegar, red wine"
+  ],
+  "rice, brown, long-grain": [
+    "Barley, pearled, cooked",
+    "Oil, rice bran",
+    "Quinoa, uncooked",
+    "Wild rice, raw"
+  ],
+  "turkey, ground, 93% lean": [
+    "Beef, grass-fed, ground",
+    "Pork, fresh, ground"
+  ],
+  "vanilla extract": [
+    "Dulce de Leche",
+    "Egg, white, raw",
+    "Ice cream sandwich",
+    "Lemon juice, raw",
+    "Milk, chocolate, fluid",
+    "Oil, almond",
+    "Oil, sesame, salad or cooking",
+    "Orange juice, raw",
+    "Peanuts, spanish, raw",
+    "Pepper, banana, raw",
+    "Peppermint, fresh",
+    "SILK Coffee, soymilk",
+    "Sausage, breakfast sausage, beef",
+    "Seasoning mix, dry, sazon",
+    "Spices, cinnamon, ground",
+    "Strawberries, raw",
+    "Water convolvulus, raw",
+    "Yogurt, Greek, plain"
+  ],
+  "onions, young green, tops only": [
+    "Basil, fresh",
+    "Chives, raw",
+    "Egg, white, raw",
+    "Hearts of palm, canned",
+    "Leeks, raw",
+    "Onions, raw",
+    "Shallots, freeze-dried",
+    "Spearmint, dried",
+    "Spices, coriander leaf, dried",
+    "Spices, onion powder"
+  ],
+  "spices, pepper, black": [
+    "Asparagus, raw",
+    "Broccoli, raw",
+    "Carrot, dehydrated",
+    "Celery, raw",
+    "Corn grain, yellow",
+    "Horseradish, prepared",
+    "Lima beans, immature seeds, frozen",
+    "Nance, canned, syrup",
+    "Okra, raw",
+    "Orange juice, raw",
+    "Peppers, jalapeno, canned",
+    "Spices, onion powder",
+    "Spices, pepper, red or cayenne",
+    "Spices, pepper, white",
+    "Spices, poultry seasoning",
+    "Spinach, frozen, chopped or leaf",
+    "Squash, summer, zucchini"
+  ],
+  "beans, black, mature seeds": [
+    "Beans, kidney, red",
+    "Beans, pinto, canned",
+    "Beans, shellie, canned",
+    "Cheese, romano",
+    "Chickpeas , mature seeds",
+    "Chili with beans, canned",
+    "Fat, chicken",
+    "Mushrooms, shiitake, raw",
+    "Peas, edible-podded, raw",
+    "Turkey, Ground, raw"
+  ],
+  "nance, canned, syrup": [
+    "Corn grain, yellow",
+    "Cranberries, dried, sweetened",
+    "Fat, chicken",
+    "Milk, chocolate, fluid",
+    "Raisins, seeded",
+    "Spices, onion powder",
+    "Spices, pepper, black",
+    "Strawberries, raw"
+  ],
+  "vinegar, cider": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Egg, white, raw",
+    "Fish broth",
+    "Grapefruit juice, white, canned",
+    "Lemon juice, raw",
+    "Lime juice, raw",
+    "Pineapple, canned, juice pack",
+    "Vinegar, red wine"
+  ],
+  "spices, allspice, ground": [
+    "Ice cream sandwich",
+    "Seeds, sesame seeds, whole",
+    "Spices, cinnamon, ground",
+    "Spices, coriander leaf, dried",
+    "Spices, ginger, ground",
+    "Spices, nutmeg, ground",
+    "Spices, pepper, white"
+  ],
+  "celery, raw": [
+    "Asparagus, raw",
+    "Carrots, raw",
+    "Chayote, fruit, raw",
+    "Corn grain, yellow",
+    "Corn, sweet, yellow",
+    "Cucumber, peeled, raw",
+    "Dill weed, fresh",
+    "Mushrooms, shiitake, raw",
+    "Oil, avocado",
+    "Onions, raw",
+    "Parsnips, raw",
+    "Spearmint, dried",
+    "Spices, celery seed",
+    "Spices, coriander leaf, dried",
+    "Spices, fennel seed",
+    "Spices, onion powder",
+    "Spices, pepper, black",
+    "Squash, summer, zucchini",
+    "Vegetables, mixed, canned"
+  ],
+  "spices, cinnamon, ground": [
+    "SMART SOUP, Indian Bean Masala",
+    "Spices, allspice, ground",
+    "Spices, ginger, ground",
+    "Spices, nutmeg, ground",
+    "Spices, pumpkin pie spice",
+    "Vanilla extract",
+    "Vegetables, mixed, canned"
+  ],
+  "shortening frying , palm": [
+    "Animal fat, bacon grease",
+    "Applesauce, canned, unsweetened",
+    "Butter, salted",
+    "Lard",
+    "Margarine, regular, hard",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, olive, salad or cooking",
+    "Oil, sunflower, linoleic",
+    "Oil, vegetable, soybean",
+    "Prune puree"
+  ],
+  "basil, fresh": [
+    "Dill weed, fresh",
+    "Dulce de Leche",
+    "Onions, young green, tops only",
+    "Peppermint, fresh",
+    "Pumpkin, canned, without salt",
+    "Rosemary, fresh",
+    "Salt, table",
+    "Sauce, tomato chili sauce, bottled",
+    "Spearmint, dried",
+    "Spices, basil, dried",
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed",
+    "Spices, garlic powder",
+    "Spices, ginger, ground",
+    "Spices, marjoram, dried",
+    "Spices, onion powder",
+    "Spices, oregano, dried",
+    "Spices, pepper, black",
+    "Spices, pepper, red or cayenne",
+    "Spices, poultry seasoning",
+    "Spices, sage, ground",
+    "Spices, tarragon, dried",
+    "Spinach, raw",
+    "Thyme, fresh",
+    "Tomatoes, sun-dried",
+    "Yogurt, Greek, strawberry"
+  ],
+  "spices, chervil, dried": [
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed"
+  ],
+  "spices, marjoram, dried": [
+    "Basil, fresh",
+    "Cream substitute, powdered",
+    "Egg, whole, raw",
+    "Rosemary, fresh",
+    "Spices, oregano, dried",
+    "Spices, poultry seasoning",
+    "Spices, tarragon, dried",
+    "Thyme, fresh"
+  ],
+  "beans, snap, green": [
+    "Asparagus, raw",
+    "Beans, kidney, red",
+    "Broccoli, raw",
+    "Carrots, baby, raw",
+    "Celery, raw",
+    "Kale, raw",
+    "Okra, raw",
+    "Peas, edible-podded, raw",
+    "Peas, green, raw",
+    "Spices, pepper, black",
+    "Vegetables, mixed, frozen"
+  ],
+  "rice, white, long-grain": [
+    "Nance, canned, syrup",
+    "Rice, brown, long-grain"
+  ],
+  "seeds, pumpkin and squash seeds, whole": [
+    "Peanuts, spanish, raw"
+  ],
+  "fat, chicken": [
+    "Beans, shellie, canned",
+    "Beans, white, mature seeds",
+    "Beef, chuck, top blade",
+    "Beef, chuck, under blade pot roast",
+    "Beef, grass-fed, ground",
+    "Beef, short loin, porterhouse steak",
+    "Blood sausage",
+    "Bologna, pork",
+    "Cheese, feta",
+    "Chicken, ground, raw",
+    "Chicken, roasting, meat only",
+    "Chili with beans, canned",
+    "Corn grain, yellow",
+    "Crustaceans, shrimp, raw",
+    "Egg, whole, raw",
+    "Eggplant, raw",
+    "Fat, turkey",
+    "Fish broth",
+    "Fish oil, salmon",
+    "Fish, tilapia, raw",
+    "Frankfurter, meat",
+    "Game meat, deer, ground",
+    "HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",
+    "Ham, minced",
+    "Nuts, almonds",
+    "Oil, almond",
+    "Oscar Mayer, Chicken Breast",
+    "Pheasant, raw, meat only",
+    "Pork, bacon, rendered fat",
+    "Pork, fresh, loin",
+    "Sausage, turkey, pork",
+    "Soup, SWANSON, vegetable broth",
+    "Soup, beef broth, bouillon",
+    "Soup, beef broth, cubed",
+    "Soup, cream of onion, canned",
+    "Squash, summer, zucchini",
+    "Tofu, dried-frozen",
+    "Tofu, raw, firm",
+    "Turkey, Ground, raw",
+    "Turkey, breast, smoked",
+    "Turkey, ground, 93% lean",
+    "Turkey, whole, breast"
+  ],
+  "vinegar, red wine": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Bulgur, dry",
+    "Chicken, canned, no broth",
+    "Egg, white, raw",
+    "Fish broth",
+    "Fish oil, salmon",
+    "Grape juice, canned or bottled, unsweetened",
+    "Grapefruit juice, white, canned",
+    "Ham, minced",
+    "Lemon juice, raw",
+    "Lime juice, raw",
+    "Oil, soybean, salad or cooking",
+    "Peppers, jalapeno, canned",
+    "Soup, beef broth, cubed",
+    "Soup, mushroom with beef stock, canned",
+    "Soup, stock, beef",
+    "Soup, stock, chicken",
+    "Tomato juice, canned, with salt added",
+    "Vinegar, balsamic",
+    "Vinegar, cider"
+  ],
+  "shallots, freeze-dried": [
+    "Abiyuch, raw",
+    "Basil, fresh",
+    "Onions, raw",
+    "Onions, spring or scallions, raw",
+    "Onions, young green, tops only",
+    "Spices, onion powder"
+  ],
+  "tofu, silken": [
+    "Cheese, cream"
+  ],
+  "pepperoni, beef and pork, sliced": [
+    "Fat, turkey",
+    "Frankfurter, meat",
+    "Ham, minced",
+    "Mushrooms, shiitake, raw",
+    "Salami, cooked, beef",
+    "Spinach, raw"
+  ],
+  "fish, tuna, fresh": [
+    "Asparagus, raw",
+    "Crustaceans, crab, blue",
+    "Crustaceans, shrimp, raw",
+    "Fish oil, salmon",
+    "Ham, minced",
+    "Oscar Mayer, Chicken Breast",
+    "Salmon, sockeye, canned"
+  ],
+  "pasta, dry, enriched": [
+    "Cauliflower, raw",
+    "Cheese, blue",
+    "Noodles, egg, dry",
+    "Sauce, pasta, spaghetti/marinara",
+    "Soup, tomato, canned",
+    "Squash, summer, zucchini",
+    "Tomatoes, sun-dried"
+  ],
+  "cream, sour, cultured": [
+    "Blueberries, raw",
+    "Cheese, blue",
+    "Cheese, cottage, creamed",
+    "Cheese, cream",
+    "Cheese, low fat, cheddar or colby",
+    "Cheese, ricotta, whole milk",
+    "Cream, fluid, heavy whipping",
+    "Fat, chicken",
+    "Milk, buttermilk, fluid",
+    "Pork, cured, ham with natural juices",
+    "Salad dressing, ranch dressing, fat-free",
+    "Sour cream, light",
+    "Vanilla extract",
+    "Yogurt, Greek, plain",
+    "Yogurt, plain, skim milk"
+  ],
+  "spices, garlic powder": [
+    "Abiyuch, raw",
+    "Basil, fresh",
+    "Salt, table",
+    "Spices, onion powder"
+  ],
+  "beans, fava, in pod": [
+    "Lima beans, immature seeds, raw"
+  ],
+  "seeds, flaxseed": [
+    "Oil, mustard",
+    "Pomegranate juice, bottled",
+    "Seeds, sesame seeds, whole",
+    "Spearmint, dried",
+    "Spices, allspice, ground",
+    "Spices, cardamom",
+    "Spices, cumin seed",
+    "Spices, mustard seed, ground",
+    "Strawberries, raw",
+    "Wheat bran, crude"
+  ],
+  "beans, kidney, red": [
+    "Beans, black, mature seeds",
+    "Beans, navy, mature seeds",
+    "Beans, shellie, canned",
+    "Beans, white, mature seeds",
+    "Chili with beans, canned"
+  ],
+  "soup, stock, chicken": [
+    "Chicken, canned, no broth",
+    "Egg, white, raw",
+    "Egg, whole, raw",
+    "Sauce, tomato chili sauce, bottled",
+    "Shortening, vegetable, household",
+    "Soup, SWANSON, vegetable broth",
+    "Soup, beef broth, cubed",
+    "Soup, stock, beef"
+  ],
+  "acerola juice, raw": [
+    "Applesauce, canned, unsweetened",
+    "Sauce, barbecue"
+  ],
+  "cheese, cream": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Cheese, blue",
+    "Cheese, cheddar, sharp",
+    "Cheese, fresh, queso fresco",
+    "Cheese, goat, hard type",
+    "Cream, sour, cultured",
+    "Fat, chicken",
+    "Horseradish, prepared",
+    "Peanut Butter, smooth",
+    "Salad dressing, mayonnaise, light",
+    "Tofu, dried-frozen"
+  ],
+  "nuts, walnuts, black": [
+    "Candied fruit",
+    "Cherries, sweet, raw",
+    "Cranberries, dried, sweetened",
+    "Milk, chocolate, fluid",
+    "Nuts, acorns, raw",
+    "Nuts, almonds",
+    "Nuts, hazelnuts or filberts",
+    "Nuts, macadamia nuts, raw",
+    "Nuts, pecans",
+    "Peanuts, spanish, raw",
+    "Raisins, golden, seedless",
+    "Raisins, seeded"
+  ],
+  "potatoes, hash brown, home-prepared": [
+    "Apples, canned, sweetened",
+    "Egg, white, raw",
+    "Lentils, pink or red, raw"
+  ],
+  "milk, canned, evaporated": [
+    "Fat, chicken",
+    "Milk, canned, condensed",
+    "Milk, dry, whole",
+    "Nuts, coconut milk, raw",
+    "Yogurt, plain, skim milk"
+  ],
+  "olives, ripe, canned": [
+    "Abiyuch, raw",
+    "Beans, black, mature seeds",
+    "Capers, canned",
+    "Corn grain, yellow",
+    "Mushrooms, shiitake, raw",
+    "Peas, edible-podded, raw",
+    "Peppers, sweet, red",
+    "Spices, pepper, black",
+    "Spices, pepper, red or cayenne"
+  ],
+  "spices, curry powder": [
+    "Dill weed, fresh",
+    "Nance, canned, syrup",
+    "Spices, poultry seasoning"
+  ],
+  "margarine, regular, hard": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Butter, light, stick",
+    "Butter, salted",
+    "Lard",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, olive, salad or cooking",
+    "Shortening frying , palm"
+  ],
+  "spices, onion powder": [
+    "Abiyuch, raw",
+    "Celery, raw",
+    "Chives, raw",
+    "Egg, white, raw",
+    "Leeks, raw",
+    "Nance, canned, syrup",
+    "Oil, vegetable, soybean",
+    "Onions, raw",
+    "Onions, spring or scallions, raw",
+    "Onions, young green, tops only",
+    "Parsley, fresh",
+    "Passion-fruit, purple",
+    "Peppers, jalapeno, canned",
+    "Salt, table",
+    "Shallots, freeze-dried",
+    "Soup, onion, canned",
+    "Soup, onion, dry",
+    "Spearmint, dried",
+    "Spices, dill seed",
+    "Spices, garlic powder",
+    "Thyme, fresh"
+  ],
+  "bologna, pork": [
+    "Beef, cured, corned beef",
+    "Chicken, ground, raw",
+    "Crustaceans, shrimp, raw",
+    "Fat, chicken",
+    "Oscar Mayer, Chicken Breast",
+    "Pork, bacon, rendered fat",
+    "Tofu, dried-frozen",
+    "Turkey, Ground, raw",
+    "Turkey, ground, 93% lean"
+  ],
+  "cornstarch": [
+    "Arrowroot, raw",
+    "Potato flour",
+    "Rice flour, brown",
+    "Sorghum flour, whole-grain"
+  ],
+  "soup, tomato, canned": [
+    "Chicken, canned, no broth",
+    "Pasta, dry, enriched",
+    "Sauce, pasta, spaghetti/marinara",
+    "Sauce, tomato chili sauce, bottled",
+    "Tomato products, canned, paste",
+    "Tomatoes, sun-dried"
+  ],
+  "oats": [
+    "Corn grain, yellow",
+    "Oat bran, raw",
+    "Oil, coconut",
+    "Oil, rice bran",
+    "Potato flour",
+    "Wheat flour, white, bread"
+  ],
+  "beef, round, top round": [
+    "Chicken, ground, raw",
+    "Turkey, Ground, raw"
+  ],
+  "sauce, tomato chili sauce, bottled": [
+    "Catsup",
+    "Cheese, ricotta, whole milk",
+    "Cream, fluid, heavy whipping",
+    "Nuts, coconut milk, raw",
+    "Pasta, dry, enriched",
+    "Prune puree",
+    "Sauce, salsa, ready-to-serve",
+    "Soup, beef broth, cubed",
+    "Soup, tomato, canned",
+    "Spices, curry powder",
+    "Tomato powder",
+    "Tomato products, canned, paste",
+    "Tomatoes, crushed, canned",
+    "Tomatoes, sun-dried"
+  ],
+  "spices, coriander leaf, dried": [
+    "Basil, fresh",
+    "Chives, raw",
+    "Dill weed, fresh",
+    "Ice cream sandwich",
+    "Kale, raw",
+    "Lemon juice, raw",
+    "Peppermint, fresh",
+    "Spearmint, dried",
+    "Spices, basil, dried",
+    "Spices, coriander seed",
+    "Spices, dill weed, dried",
+    "Spices, fennel seed",
+    "Spices, nutmeg, ground",
+    "Spices, onion powder",
+    "Spices, oregano, dried",
+    "Spinach, raw",
+    "Thyme, fresh"
+  ],
+  "cheese, cottage, creamed": [
+    "Cheese, cream",
+    "Cheese, feta",
+    "Cheese, ricotta, whole milk",
+    "Milk, dry, whole",
+    "Tofu, silken"
+  ],
+  "potatoes, mashed, home-prepared": [
+    "Wheat flour, whole-grain"
+  ],
+  "apricots, raw": [
+    "Basil, fresh",
+    "Cherries, tart, dried",
+    "Cranberries, dried, sweetened",
+    "Figs, raw",
+    "Peaches, yellow, raw",
+    "Raisins, golden, seedless",
+    "Raisins, seeded",
+    "Spearmint, dried"
+  ],
+  "butter, salted": [
+    "Animal fat, bacon grease",
+    "Apple juice, frozen concentrate, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Beans, great northern, mature seeds",
+    "Beans, kidney, red",
+    "Beans, shellie, canned",
+    "Beans, white, mature seeds",
+    "Beet greens, raw",
+    "Butter, light, stick",
+    "Cheese, blue",
+    "Cheese, cream",
+    "Chicken, canned, no broth",
+    "Cream, fluid, light",
+    "Egg, whole, raw",
+    "Fat, chicken",
+    "Lima beans, immature seeds, raw",
+    "Margarine, industrial, soy and partially hydrogenated soy oil",
+    "Margarine, regular, hard",
+    "Margarine,spread, 35-39% fat",
+    "Oil, PAM cooking spray, original",
+    "Oil, avocado",
+    "Oil, canola",
+    "Oil, coconut",
+    "Oil, corn, industrial and retail",
+    "Oil, olive, salad or cooking",
+    "Oil, soybean, salad or cooking",
+    "Oil, sunflower, linoleic",
+    "Oil, vegetable, soybean",
+    "Olive loaf, pork",
+    "Orange juice, raw",
+    "Peanut Butter, smooth",
+    "Peanut butter with omega-3, creamy",
+    "Peanuts, spanish, raw",
+    "Pepper, banana, raw",
+    "Pork, bacon, rendered fat",
+    "Salad dressing, mayonnaise, light",
+    "Seeds, sunflower seed kernels, oil roasted",
+    "Shortening frying , palm",
+    "Shortening, vegetable, household",
+    "Spices, anise seed",
+    "Spices, cinnamon, ground",
+    "Yogurt, Greek, strawberry"
+  ],
+  "sauce, pizza, canned": [
+    "Loganberries, frozen",
+    "Sauce, chili, peppers"
+  ],
+  "fat, turkey": [
+    "Basil, fresh",
+    "Beef, grass-fed, ground",
+    "Beef, top sirloin, steak",
+    "Blood sausage",
+    "Bologna, pork",
+    "Chicken, canned, no broth",
+    "Chicken, ground, crumbles",
+    "Chicken, ground, raw",
+    "Chicken, skin , cooked",
+    "Fat, chicken",
+    "Frankfurter, meat",
+    "Pork, Leg sirloin tip roast, boneless",
+    "Sausage, Berliner, pork",
+    "Spices, onion powder"
+  ],
+  "horseradish, prepared": [
+    "Spearmint, dried"
+  ],
+  "tomatoes, crushed, canned": [
+    "Basil, fresh",
+    "Tomatoes, sun-dried"
+  ],
+  "ham, minced": [
+    "Bacon, turkey, unprepared",
+    "Beef, chuck, short ribs",
+    "Beef, cured, corned beef",
+    "Blood sausage",
+    "Bologna, pork",
+    "Cheese, feta",
+    "Crustaceans, shrimp, cooked",
+    "Crustaceans, shrimp, raw",
+    "Fat, chicken",
+    "Fat, turkey",
+    "Fish oil, salmon",
+    "Pepperoni, beef and pork, sliced",
+    "Pork, bacon, rendered fat",
+    "Roast beef spread",
+    "Sausage, smoked link sausage, pork",
+    "Spices, onion powder",
+    "Spices, pepper, red or cayenne",
+    "Spinach, raw",
+    "Turkey, breast, smoked"
+  ],
+  "raisins, seeded": [
+    "Apricots, dried, sulfured",
+    "Basil, fresh",
+    "Blueberries, dried, sweetened",
+    "Blueberries, raw",
+    "Blueberries, wild, frozen",
+    "Carrots, raw",
+    "Cherries, tart, dried",
+    "Cranberries, dried, sweetened",
+    "Cranberries, raw",
+    "Currants, zante, dried",
+    "Dates, medjool",
+    "Grapes, red or green",
+    "Lemon peel, raw",
+    "Milk, chocolate, fluid",
+    "Nuts, almonds",
+    "Nuts, pecans",
+    "Nuts, walnuts, black",
+    "Oil, coconut",
+    "Oranges, raw, California",
+    "Peas, edible-podded, raw",
+    "Plums, raw",
+    "Prunes, dehydrated , uncooked",
+    "Seeds, breadfruit seeds, roasted"
+  ],
+  "beef, plate, inside skirt steak": [
+    "Beef, flank, steak"
+  ],
+  "salami, cooked, beef": [
+    "Ham, minced",
+    "Mushrooms, shiitake, raw",
+    "Pepperoni, beef and pork, sliced"
+  ],
+  "yogurt, greek, strawberry": [
+    "Applesauce, canned, unsweetened",
+    "SILK Peach soy yogurt",
+    "Sapote, mamey, raw"
+  ],
+  "beef, round, bottom round": [
+    "Beef, tenderloin, steak",
+    "Soup, beef broth or bouillon, powder"
+  ],
+  "spices, cardamom": [
+    "SMART SOUP, Indian Bean Masala",
+    "Seasoning mix, dry, taco",
+    "Spices, allspice, ground",
+    "Spices, poultry seasoning",
+    "Spices, pumpkin pie spice",
+    "Vanilla extract"
+  ],
+  "cucumber, peeled, raw": [
+    "Basil, fresh",
+    "Celery, raw",
+    "Spices, pepper, red or cayenne",
+    "Squash, summer, zucchini"
+  ],
+  "spices, mace, ground": [
+    "Lemon peel, raw",
+    "Spices, allspice, ground",
+    "Spices, cardamom",
+    "Spices, cinnamon, ground",
+    "Spices, cloves, ground",
+    "Spices, nutmeg, ground"
+  ],
+  "spices, oregano, dried": [
+    "Basil, fresh",
+    "Chives, raw",
+    "Rosemary, fresh",
+    "Soup, onion, canned",
+    "Spices, basil, dried",
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed",
+    "Spices, pepper, black",
+    "Spices, poultry seasoning",
+    "Spices, tarragon, dried",
+    "Thyme, fresh"
+  ],
+  "egg, white, raw": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Bulgur, dry",
+    "Chicken, canned, no broth",
+    "Coriander leaves, raw",
+    "Egg, whole, raw",
+    "Fish broth",
+    "Grapefruit juice, white, canned",
+    "Oil, almond",
+    "Oil, coconut",
+    "Oil, palm",
+    "Onions, raw",
+    "Peas, edible-podded, raw",
+    "Potatoes, hash brown, home-prepared",
+    "Shallots, freeze-dried",
+    "Vinegar, balsamic",
+    "Vinegar, cider",
+    "Vinegar, red wine"
+  ],
+  "peppers, jalapeno, canned": [
+    "Soup, pea, green",
+    "Spices, pepper, black",
+    "Spices, pepper, red or cayenne"
+  ],
+  "milk, filled, fluid": [
+    "Milk, buttermilk, fluid"
+  ],
+  "spices, chili powder": [
+    "Peppers, jalapeno, canned",
+    "Pork, bacon, rendered fat",
+    "Sauce, peppers, hot",
+    "Seasoning mix, dry, taco",
+    "Spices, cumin seed",
+    "Spices, curry powder",
+    "Spices, pepper, black",
+    "Spices, pepper, red or cayenne",
+    "Spices, poultry seasoning"
+  ],
+  "crustaceans, shrimp, raw": [
+    "Chicken, skin , cooked",
+    "Crustaceans, crab, blue",
+    "Egg, whole, raw",
+    "Fat, chicken"
+  ],
+  "thyme, fresh": [
+    "Basil, fresh",
+    "Dulce de Leche",
+    "Ice cream sandwich",
+    "Peppermint, fresh",
+    "Rosemary, fresh",
+    "Spices, allspice, ground",
+    "Spices, caraway seed",
+    "Spices, cinnamon, ground",
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed",
+    "Spices, marjoram, dried",
+    "Spices, oregano, dried",
+    "Spices, poultry seasoning",
+    "Spices, sage, ground",
+    "Spices, savory, ground",
+    "Spices, tarragon, dried",
+    "Spices, thyme, dried"
+  ],
+  "lamb, shoulder, whole": [
+    "Lamb, leg, whole"
+  ],
+  "oil, mustard": [
+    "Mustard, prepared, yellow",
+    "Rye grain",
+    "Spices, chili powder"
+  ],
+  "peas, green, split": [
+    "Peas, edible-podded, frozen",
+    "Pickle and pimiento loaf, pork"
+  ],
+  "beef, flank, steak": [
+    "Beef, chuck, under blade pot roast",
+    "Bologna, pork"
+  ],
+  "lima beans, immature seeds, raw": [
+    "Beans, pinto, canned",
+    "Beans, shellie, canned",
+    "Butter, salted",
+    "Peas, edible-podded, raw"
+  ],
+  "soup, swanson, vegetable broth": [
+    "Chicken, canned, no broth",
+    "Fish broth",
+    "Soup, stock, chicken"
+  ],
+  "chicken, canned, no broth": [
+    "Bulgur, dry",
+    "Butter, salted",
+    "Egg, white, raw",
+    "Egg, whole, raw",
+    "Fat, chicken",
+    "Fat, turkey",
+    "Fish broth",
+    "Shortening, vegetable, household",
+    "Soup, SWANSON, vegetable broth",
+    "Soup, beef broth, cubed",
+    "Soup, cream of chicken, canned",
+    "Soup, cream of mushroom, canned",
+    "Soup, cream of shrimp, canned",
+    "Soup, stock, chicken",
+    "Soup, vegetable with beef broth, canned",
+    "Tomato juice, canned, with salt added",
+    "Tomatoes, sun-dried",
+    "Vinegar, red wine"
+  ],
+  "peppermint, fresh": [
+    "Basil, fresh",
+    "Dill weed, fresh",
+    "Lemon juice, raw",
+    "SMART SOUP, Vietnamese Carrot Lemongrass",
+    "Spices, dill seed",
+    "Spices, oregano, dried",
+    "Spices, tarragon, dried",
+    "Vanilla extract"
+  ],
+  "pineapple, frozen, chunks": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Candied fruit",
+    "Lemon juice, raw",
+    "Mushrooms, shiitake, raw",
+    "Orange juice, raw",
+    "Peaches, yellow, raw"
+  ],
+  "onions, raw": [
+    "Basil, fresh",
+    "Chives, raw",
+    "Leeks, raw",
+    "Nuts, walnuts, black",
+    "Onions, spring or scallions, raw",
+    "Onions, young green, tops only",
+    "Shallots, freeze-dried",
+    "Soup, cheese, canned",
+    "Spices, chili powder",
+    "Spices, onion powder",
+    "Spices, pepper, black",
+    "Turnips, raw"
+  ],
+  "prunes, dehydrated , uncooked": [
+    "Dates, medjool",
+    "Mushrooms, shiitake, raw",
+    "Raisins, golden, seedless",
+    "Raisins, seeded",
+    "Spearmint, dried"
+  ],
+  "sapote, mamey, raw": [
+    "Oil, apricot kernel",
+    "Tomatoes, sun-dried"
+  ],
+  "wheat flour, whole-grain": [
+    "Chickpea flour",
+    "Cornstarch",
+    "Oat flour, partially debranned",
+    "Oil, wheat germ",
+    "Potato flour",
+    "Rice flour, white, unenriched",
+    "Soy meal, defatted, raw",
+    "Spelt, uncooked",
+    "Wheat flour, white, bread"
+  ],
+  "fish broth": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Cheese, cream",
+    "Egg, white, raw",
+    "Lemon juice, raw",
+    "Soup, chicken broth or bouillon, dry"
+  ],
+  "spices, coriander seed": [
+    "Basil, fresh",
+    "Spices, coriander leaf, dried",
+    "Spices, dill seed",
+    "Thyme, fresh"
+  ],
+  "smart soup, indian bean masala": [
+    "Spices, chili powder",
+    "Spices, coriander seed",
+    "Spices, curry powder"
+  ],
+  "soup, cream of mushroom, canned": [
+    "Potato soup, instant, dry mix",
+    "Soup, cream of chicken, canned"
+  ],
+  "frankfurter, meat": [
+    "Beans, shellie, canned",
+    "Beef, chuck, under blade pot roast",
+    "Blood sausage",
+    "Chicken, ground, crumbles",
+    "Chicken, skin , cooked",
+    "Eggplant, raw",
+    "Fat, chicken",
+    "Ham, sliced, pre-packaged",
+    "Mushrooms, shiitake, raw",
+    "Pork, bacon, rendered fat",
+    "Rice noodles, dry",
+    "Spinach, raw",
+    "Tofu, dried-frozen"
+  ],
+  "seeds, breadfruit seeds, roasted": [
+    "Nuts, almonds"
+  ],
+  "milk, dry, nonfat": [
+    "Yogurt, plain, skim milk"
+  ],
+  "spices, cloves, ground": [
+    "Abiyuch, raw",
+    "Spices, allspice, ground",
+    "Spices, cinnamon, ground",
+    "Spices, garlic powder",
+    "Spices, nutmeg, ground",
+    "Spices, pumpkin pie spice"
+  ],
+  "abiyuch, raw": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Apples, canned, sweetened",
+    "Salt, table"
+  ],
+  "pumpkin, raw": [
+    "Butter, salted",
+    "Potatoes, hash brown, home-prepared",
+    "Squash, summer, scallop",
+    "Sweet potato leaves, raw"
+  ],
+  "mushrooms, straw, canned": [
+    "Corn grain, yellow",
+    "Grapes, muscadine, raw"
+  ],
+  "sauce, peppers, hot": [
+    "Cranberry-orange relish, canned",
+    "Peppers, sweet, red",
+    "Spearmint, dried",
+    "Spices, chili powder",
+    "Spices, garlic powder"
+  ],
+  "lamb, leg, whole": [
+    "Beef, grass-fed, ground",
+    "Chicken, ground, raw",
+    "Fat, chicken",
+    "Game meat, deer, ground",
+    "Soybeans, mature seeds, dry roasted"
+  ],
+  "bockwurst, pork, veal": [
+    "Bologna, pork",
+    "Fat, chicken",
+    "Fat, turkey",
+    "Pork, pickled pork hocks"
+  ],
+  "spices, dill seed": [
+    "Basil, fresh",
+    "Dill weed, fresh",
+    "Lemon juice, raw",
+    "Spices, coriander leaf, dried",
+    "Spices, curry powder",
+    "Spices, pepper, red or cayenne",
+    "Spices, poultry seasoning",
+    "Spices, sage, ground",
+    "Spices, savory, ground",
+    "Spices, tarragon, dried",
+    "Thyme, fresh"
+  ],
+  "salad dressing, mayonnaise, light": [
+    "Cream, sour, cultured",
+    "Oil, grapeseed",
+    "Salad dressing, russian dressing",
+    "Yogurt, Greek, plain"
+  ],
+  "spices, anise seed": [
+    "Seeds, sesame seeds, whole",
+    "Soy meal, defatted, raw",
+    "Spices, fennel seed"
+  ],
+  "watermelon, raw": [
+    "Basil, fresh"
+  ],
+  "peaches, yellow, raw": [
+    "Abiyuch, raw",
+    "Blueberries, raw",
+    "Nectarines, raw",
+    "Oil, apricot kernel",
+    "Oranges, raw, California",
+    "Strawberries, raw"
+  ],
+  "cream, fluid, light whipping": [
+    "Cheese, cream",
+    "Cream, sour, cultured",
+    "Fat, chicken",
+    "Milk, buttermilk, fluid",
+    "Milk, canned, evaporated",
+    "Yogurt, Greek, plain"
+  ],
+  "spices, pumpkin pie spice": [
+    "Ice cream sandwich",
+    "Spices, cinnamon, ground"
+  ],
+  "squash, summer, scallop": [
+    "Celery, raw",
+    "Eggplant, raw",
+    "Mushrooms, shiitake, raw",
+    "Potatoes, hash brown, home-prepared",
+    "Sweet potato leaves, raw"
+  ],
+  "beans, shellie, canned": [
+    "Beans, black, mature seeds",
+    "Beans, pinto, canned",
+    "Carrots, raw",
+    "Corn grain, yellow",
+    "Edamame, frozen, unprepared",
+    "Fat, chicken",
+    "Loganberries, frozen",
+    "Peas, edible-podded, raw",
+    "Rice, brown, long-grain"
+  ],
+  "rice flour, white, unenriched": [
+    "Buckwheat flour, whole-groat",
+    "Cornmeal, whole-grain, yellow",
+    "Oat flour, partially debranned",
+    "Potato flour",
+    "Rice flour, brown",
+    "Rye grain",
+    "Soy flour, defatted",
+    "Wheat flour, whole-grain",
+    "Wheat, durum"
+  ],
+  "gravy, mushroom, canned": [
+    "Soup, chicken, canned",
+    "Soup, cream of chicken, canned",
+    "Soup, stock, chicken",
+    "Whey, sweet, fluid"
+  ],
+  "spices, ginger, ground": [
+    "Basil, fresh",
+    "Ice cream sandwich",
+    "SMART SOUP, Vietnamese Carrot Lemongrass",
+    "Spices, allspice, ground",
+    "Spices, cardamom",
+    "Spices, cinnamon, ground",
+    "Spices, cloves, ground",
+    "Spices, pumpkin pie spice"
+  ],
+  "oil, cocoa butter": [
+    "Milk, chocolate, fluid",
+    "Peanut Butter, smooth"
+  ],
+  "spices, pepper, red or cayenne": [
+    "Peppers, hot chili, green",
+    "Spearmint, dried",
+    "Spices, chili powder",
+    "Spices, nutmeg, ground",
+    "Spices, pepper, black"
+  ],
+  "soup, beef broth, bouillon": [
+    "Chicken, canned, no broth",
+    "Soup, chicken broth or bouillon, dry",
+    "Soup, stock, beef"
+  ],
+  "campbell's, tomato soup, condensed": [
+    "Soup, cream of mushroom, canned"
+  ],
+  "horned melon": [
+    "Pineapple, frozen, chunks",
+    "Strawberries, raw"
+  ],
+  "beet greens, raw": [
+    "Cabbage, raw",
+    "Kale, raw",
+    "Spinach, frozen, chopped or leaf",
+    "Spinach, raw"
+  ],
+  "smart soup, vietnamese carrot lemongrass": [
+    "Lemon juice, raw",
+    "Lemon peel, raw",
+    "Thyme, fresh"
+  ],
+  "soup, cream of celery, canned": [
+    "Gravy, mushroom, canned",
+    "Soup, cream of chicken, canned",
+    "Soup, cream of mushroom, canned",
+    "Soup, cream of onion, canned"
+  ],
+  "sauce, barbecue": [
+    "Frankfurter, beef, unheated",
+    "Sauce, fish, ready-to-serve",
+    "Sauce, salsa, ready-to-serve"
+  ],
+  "cranberries, raw": [
+    "Apricots, raw",
+    "Cherries, sweet, raw",
+    "Cherries, tart, dried",
+    "Milk, chocolate, fluid",
+    "Nuts, walnuts, black",
+    "Raisins, seeded",
+    "Vegetables, mixed, frozen"
+  ],
+  "meatballs, frozen, italian style": [
+    "Beef, loin, tenderloin steak",
+    "Crustaceans, lobster, northern",
+    "Fat, chicken"
+  ],
+  "yogurt, plain, skim milk": [
+    "Milk, canned, evaporated",
+    "Milk, filled, fluid",
+    "Nuts, coconut milk, raw"
+  ],
+  "soup, stock, beef": [
+    "Fish broth",
+    "Pomegranate juice, bottled",
+    "Soup, chicken broth or bouillon, dry",
+    "Soup, stock, chicken",
+    "Spices, onion powder"
+  ],
+  "beef, chuck, under blade pot roast": [
+    "Beef, grass-fed, ground",
+    "Beef, rib, eye",
+    "Game meat, deer, ground",
+    "Liver cheese, pork"
+  ],
+  "raisins, golden, seedless": [
+    "Blueberries, canned, light syrup",
+    "Corn grain, yellow"
+  ],
+  "mushrooms, shiitake, raw": [
+    "Basil, fresh",
+    "Carrots, raw",
+    "Celery, raw",
+    "Egg, whole, raw",
+    "Fat, chicken",
+    "Fish, tuna, fresh",
+    "Mushrooms, straw, canned",
+    "Onions, raw",
+    "Onions, spring or scallions, raw",
+    "Peas and carrots, frozen, unprepared",
+    "Peas, edible-podded, raw",
+    "Peppers, sweet, green",
+    "Peppers, sweet, red",
+    "Pineapple, frozen, chunks",
+    "Spices, pepper, black",
+    "Squash, summer, zucchini"
+  ],
+  "sauce, chili, peppers": [
+    "Catsup",
+    "Sauce, barbecue",
+    "Sauce, tomato chili sauce, bottled",
+    "Soup, onion, canned",
+    "Spices, chili powder"
+  ],
+  "spearmint, dried": [
+    "Basil, fresh",
+    "Corn grain, yellow",
+    "Mushrooms, shiitake, dried",
+    "Sauce, fish, ready-to-serve",
+    "Spices, onion powder",
+    "Water convolvulus, raw"
+  ],
+  "peanuts, spanish, raw": [
+    "Nuts, pecans",
+    "Nuts, pine nuts, dried",
+    "Nuts, walnuts, black",
+    "Peanut Butter, smooth",
+    "Seeds, sunflower seed kernels, dried"
+  ],
+  "soup, mushroom barley, canned": [
+    "Soup, chicken, canned",
+    "Soup, cream of celery, canned",
+    "Soup, cream of chicken, canned",
+    "Soup, stock, chicken"
+  ],
+  "cranberry-orange relish, canned": [
+    "Onions, raw",
+    "Pickles, cucumber, dill"
+  ],
+  "leeks, raw": [
+    "Egg, white, raw",
+    "Onions, raw",
+    "Onions, spring or scallions, raw",
+    "Onions, young green, tops only",
+    "Spices, onion powder",
+    "Spices, pepper, white"
+  ],
+  "noodles, egg, dry": [
+    "Beef, chuck, under blade pot roast",
+    "Noodles, chinese, chow mein",
+    "Pasta, dry, enriched",
+    "Rice noodles, dry",
+    "Wheat, durum"
+  ],
+  "spinach, frozen, chopped or leaf": [
+    "Basil, fresh"
+  ],
+  "parsnips, raw": [
+    "Carrots, raw",
+    "Celery, raw"
+  ],
+  "rosemary, fresh": [
+    "Basil, fresh",
+    "Ice cream sandwich",
+    "Peppermint, fresh",
+    "Spices, basil, dried",
+    "Spices, bay leaf",
+    "Spices, coriander leaf, dried",
+    "Spices, marjoram, dried",
+    "Spices, oregano, dried",
+    "Spices, poultry seasoning",
+    "Thyme, fresh"
+  ],
+  "cream, whipped, cream topping": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Yogurt, Greek, nonfat"
+  ],
+  "apple juice, frozen concentrate, unsweetened": [
+    "Abiyuch, raw",
+    "Butter, salted",
+    "Corn grain, yellow",
+    "Orange juice, raw",
+    "Pineapple, canned, juice pack",
+    "Squash, summer, zucchini",
+    "Vegetables, mixed, canned",
+    "Vinegar, red wine"
+  ],
+  "pork, bacon, rendered fat": [
+    "Bacon, turkey, unprepared",
+    "Blood sausage",
+    "Duck, wild, breast",
+    "Fat, chicken",
+    "Fish oil, salmon",
+    "Ham, honey, smoked",
+    "Ham, minced",
+    "Oil, olive, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Pork sausage, link/patty, cooked",
+    "Sausage, smoked link sausage, pork",
+    "Sausage, turkey, pork",
+    "Spearmint, dried",
+    "Wheat flour, white, tortilla mix"
+  ],
+  "prune puree": [
+    "Applesauce, canned, unsweetened",
+    "Raspberries, frozen, red",
+    "Tomatoes, crushed, canned"
+  ],
+  "oil, vegetable, soybean": [
+    "Apple juice, frozen concentrate, unsweetened",
+    "Applesauce, canned, unsweetened",
+    "Butter, salted",
+    "Oil, coconut",
+    "Oil, olive, salad or cooking",
+    "Oil, sesame, salad or cooking",
+    "Orange juice, raw",
+    "Seeds, sunflower seed kernels, oil roasted"
+  ],
+  "sauce, fish, ready-to-serve": [
+    "Catsup, low sodium",
+    "Fish broth",
+    "Oil, coconut"
+  ],
+  "peanut butter, smooth": [
+    "Butter, salted",
+    "Milk, chocolate, fluid",
+    "Nuts, almond butter, plain",
+    "Oil, coconut",
+    "Seeds, sesame butter, paste"
+  ],
+  "artichokes, cooked": [
+    "Cauliflower, raw"
+  ],
+  "chickpeas , mature seeds": [
+    "Beans, kidney, red",
+    "Beans, shellie, canned",
+    "Butter, salted",
+    "Peas, edible-podded, raw"
+  ],
+  "oil, rice bran": [
+    "Barley, hulled",
+    "Cauliflower, raw",
+    "Chayote, fruit, raw",
+    "Cheese, feta",
+    "Couscous, dry",
+    "Egg, whole, raw",
+    "Noodles, egg, dry",
+    "Oat bran, raw",
+    "Quinoa, uncooked",
+    "Rice noodles, dry",
+    "Rice, brown, long-grain",
+    "Sauce, pasta, spaghetti/marinara",
+    "Wheat, durum"
+  ],
+  "oil, apricot kernel": [
+    "SILK Peach soy yogurt",
+    "Sapote, mamey, raw",
+    "Yogurt, Greek, strawberry"
+  ],
+  "arrowroot, raw": [
+    "Cornstarch"
+  ],
+  "spices, turmeric, ground": [
+    "Spices, curry powder",
+    "Spices, saffron"
+  ],
+  "pork, fresh, ground": [
+    "Beef, grass-fed, ground",
+    "Sausage, Berliner, pork",
+    "Turkey, Ground, raw"
+  ],
+  "chili with beans, canned": [
+    "Beans, black, mature seeds",
+    "Beans, pinto, canned",
+    "Soup, cheese, canned"
+  ],
+  "grapes, muscadine, raw": [
+    "Apricots, raw",
+    "Basil, fresh",
+    "Blueberries, raw",
+    "Cranberries, dried, sweetened",
+    "Strawberries, raw"
+  ],
+  "cream, fluid, light": [
+    "Cream, sour, cultured",
+    "Milk, canned, condensed",
+    "Soup, beef broth, cubed"
+  ],
+  "rice flour, brown": [
+    "Barley malt flour",
+    "Oil, almond",
+    "Potato flour",
+    "Wheat flour, whole-grain"
+  ],
+  "spices, savory, ground": [
+    "Spices, coriander leaf, dried",
+    "Spices, oregano, dried",
+    "Spices, sage, ground"
+  ],
+  "oscar mayer, chicken breast": [
+    "Chicken, ground, raw",
+    "HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",
+    "Pheasant, breast, meat only"
+  ],
+  "lamb, ground, raw": [
+    "Beef, grass-fed, ground"
+  ],
+  "game meat, deer, ground": [
+    "Frankfurter, meat"
+  ],
+  "dates, medjool": [
+    "Apples, canned, sweetened",
+    "Apricots, raw",
+    "Currants, zante, dried",
+    "Raisins, seeded"
+  ],
+  "oranges, raw, california": [
+    "Grapefruit, sections, canned",
+    "Peaches, yellow, raw",
+    "Plums, raw"
+  ],
+  "spices, nutmeg, ground": [
+    "Ice cream sandwich",
+    "Spices, allspice, ground",
+    "Spices, cardamom",
+    "Spices, cinnamon, ground",
+    "Spices, cloves, ground",
+    "Spices, dill seed",
+    "Spices, garlic powder",
+    "Spices, oregano, dried",
+    "Spices, pumpkin pie spice",
+    "Spices, sage, ground"
+  ],
+  "spices, poultry seasoning": [
+    "Basil, fresh",
+    "Cream substitute, flavored, liquid",
+    "Fat, chicken",
+    "Salad dressing, ranch dressing, fat-free",
+    "Salt, table",
+    "Seasoning mix, dry, taco"
+  ],
+  "tapioca, pearl, dry": [
+    "Cornstarch",
+    "Potato flour"
+  ],
+  "seasoning mix, dry, taco": [
+    "Spices, cardamom",
+    "Spices, chili powder"
+  ],
+  "seeds, sunflower seed kernels, dried": [
+    "Nuts, almonds",
+    "Nuts, pecans",
+    "Nuts, pine nuts, dried",
+    "Nuts, walnuts, black",
+    "Raisins, seeded",
+    "Roast beef spread"
+  ],
+  "hormel always tender, pork tenderloin, teriyaki-flavored": [
+    "Lamb, leg, whole",
+    "Pork, Leg sirloin tip roast, boneless"
+  ],
+  "cream substitute, flavored, liquid": [
+    "Blueberries, canned, light syrup",
+    "Chicken, canned, no broth",
+    "Fat, chicken",
+    "SILK Coffee, soymilk",
+    "Spices, paprika"
+  ],
+  "turkey, whole, meat only": [
+    "Fat, chicken"
+  ],
+  "spices, fennel seed": [
+    "Spices, allspice, ground",
+    "Spices, anise seed",
+    "Spices, dill seed",
+    "Spices, thyme, dried"
+  ],
+  "plums, raw": [
+    "Nance, canned, syrup",
+    "Pears, raw",
+    "Rhubarb, raw"
+  ],
+  "soup, beef broth, cubed": [
+    "Chicken, canned, no broth",
+    "Fat, turkey",
+    "Fish broth",
+    "Soup, SWANSON, vegetable broth"
+  ],
+  "tomato products, canned, paste": [
+    "Catsup",
+    "Sauce, chili, peppers",
+    "Sauce, tomato chili sauce, bottled"
+  ],
+  "salad dressing, ranch dressing, fat-free": [
+    "Cream, sour, cultured"
+  ],
+  "oil, soybean, salad or cooking": [
+    "Oil, sesame, salad or cooking"
+  ],
+  "spices, celery seed": [
+    "Celery, raw",
+    "Spices, dill seed",
+    "Spices, dill weed, dried",
+    "Spices, pepper, black"
+  ],
+  "spices, cumin seed": [
+    "Spices, cardamom",
+    "Spices, celery seed",
+    "Spices, chili powder",
+    "Spices, coriander leaf, dried",
+    "Spices, pepper, black"
+  ],
+  "chicken breast tenders, breaded, cooked": [
+    "Eggplant, raw"
+  ],
+  "vegetables, mixed, canned": [
+    "Eggplant, raw",
+    "Spices, cinnamon, ground"
+  ],
+  "peppers, sweet, yellow": [
+    "Peppers, sweet, green"
+  ],
+  "soup, cream of asparagus, canned": [
+    "Lemon juice, raw"
+  ],
+  "sauce, ready-to-serve, pepper or hot": [
+    "Sauce, barbecue",
+    "Spices, dill seed",
+    "Spices, pepper, red or cayenne"
+  ],
+  "capers, canned": [
+    "Mushrooms, shiitake, raw",
+    "Olives, ripe, canned",
+    "Soup, pea, green",
+    "Spices, dill weed, dried"
+  ],
+  "salt, table": [
+    "Abiyuch, raw",
+    "Basil, fresh",
+    "Spices, garlic powder"
+  ],
+  "peas and carrots, frozen, unprepared": [
+    "Corn grain, yellow"
+  ],
+  "fish oil, salmon": [
+    "Fat, chicken",
+    "Fish, tuna, fresh",
+    "Pork, Shoulder breast, boneless"
+  ],
+  "lettuce, iceberg, raw": [
+    "Cabbage, napa, cooked"
+  ],
+  "spices, sage, ground": [
+    "Basil, fresh",
+    "Dill weed, fresh",
+    "Spices, cumin seed",
+    "Spices, marjoram, dried",
+    "Spices, oregano, dried",
+    "Spices, poultry seasoning",
+    "Spices, tarragon, dried"
+  ],
+  "cheese, dry white, queso seco": [
+    "Soup, stock, beef"
+  ],
+  "blueberries, wild, frozen": [
+    "Nance, canned, syrup"
+  ],
+  "onions, sweet, raw": [
+    "Onions, raw"
+  ],
+  "beans, pinto, canned": [
+    "Beans, black, mature seeds",
+    "Beans, navy, mature seeds"
+  ],
+  "edamame, frozen, unprepared": [
+    "Peas, edible-podded, raw",
+    "Peas, green, frozen"
+  ],
+  "cheese, low fat, cheddar or colby": [
+    "Cheese, ricotta, whole milk"
+  ],
+  "sauce, salsa, ready-to-serve": [
+    "Sauce, barbecue",
+    "Sauce, peppers, hot",
+    "Tomatoes, sun-dried"
+  ],
+  "silk coffee, soymilk": [
+    "Milk, chocolate, fluid",
+    "Spices, pepper, black"
+  ],
+  "oil, pam cooking spray, original": [
+    "Oil, olive, salad or cooking"
+  ],
+  "wild rice, raw": [
+    "Rice, brown, long-grain"
+  ],
+  "juice, apple, grape and pear blend": [
+    "Apple juice, frozen concentrate, unsweetened"
+  ],
+  "yogurt, vanilla or lemon flavor, nonfat milk": [
+    "Cream, sour, cultured"
+  ],
+  "animal fat, bacon grease": [
+    "Butter, salted"
+  ],
+  "orange peel, raw": [
+    "Lemon peel, raw"
+  ],
+  "hominy, canned, white": [
+    "Corn grain, yellow"
+  ],
+  "salmon, sockeye, canned": [
+    "Fish, tuna, fresh"
+  ],
+  "beans, white, mature seeds": [
+    "Lentils, raw",
+    "Peas, edible-podded, raw"
+  ],
+  "soybeans, green, raw": [
+    "Tofu, silken"
+  ],
+  "oil, palm": [
+    "Peas, edible-podded, raw",
+    "Potatoes, hash brown, home-prepared"
+  ],
+  "beef, top sirloin, steak": [
+    "Lamb, leg, whole"
+  ],
+  "mothbeans, mature seeds, raw": [
+    "Cabbage, raw",
+    "Peas, edible-podded, raw"
+  ],
+  "shortening, industrial, soy  for baking and confections": [
+    "Soup, cream of asparagus, canned"
+  ],
+  "arugula, raw": [
+    "Spinach, raw"
+  ],
+  "buckwheat flour, whole-groat": [
+    "Potato flour",
+    "Sorghum flour, whole-grain"
+  ],
+  "spelt, uncooked": [
+    "Potato flour"
+  ],
+  "wild rice, cooked": [
+    "Cheese, blue"
+  ],
+  "whey, acid, fluid": [
+    "Lemon juice, raw"
+  ],
+  "peas, edible-podded, frozen": [
+    "Beans, shellie, canned",
+    "Corn grain, yellow"
+  ],
+  "beans, pink, mature seeds": [
+    "Beans, fava, in pod",
+    "Beans, kidney, red"
+  ],
+  "chicken, ground, raw": [
+    "Turkey, Ground, cooked"
+  ],
+  "sauce, oyster, ready-to-serve": [
+    "Sauce, fish, ready-to-serve",
+    "Sauce, teriyaki, ready-to-serve"
+  ],
+  "beef, short loin, porterhouse steak": [
+    "Fat, chicken",
+    "Oscar Mayer, Chicken Breast"
+  ],
+  "tomatillos, raw": [
+    "Tomatoes, green, raw"
+  ],
+  "pork, cured, ham with natural juices": [
+    "Milk, buttermilk, fluid"
+  ],
+  "silk peach soy yogurt": [
+    "Pineapple, frozen, chunks"
+  ],
+  "mushrooms, shiitake, dried": [
+    "Mushrooms, shiitake, raw"
+  ],
+  "soup, beef broth bouillon and consomme, canned": [
+    "Soup, chicken broth, low sodium"
+  ],
+  "turkey, ground, raw": [
+    "Beef, grass-fed, ground",
+    "Oscar Mayer, Chicken Breast"
+  ],
+  "gravy, brown, dry": [
+    "Catsup, low sodium",
+    "Gravy, chicken, dry"
+  ],
+  "spices, bay leaf": [
+    "Lemon peel, raw",
+    "Thyme, fresh"
+  ],
+  "soup, chicken broth or bouillon, dry": [
+    "Beef, round, bottom round",
+    "Soup, stock, beef"
+  ],
+  "peas and carrots, canned, no salt added": [
+    "Beef, short loin, porterhouse steak",
+    "Fat, chicken",
+    "Spices, pepper, black"
+  ],
+  "refried beans, canned, vegetarian": [
+    "Beans, black, mature seeds"
+  ],
+  "soup, bouillon cubes and granules, low sodium": [
+    "Soup, stock, beef"
+  ],
+  "salad dressing, kraft miracle whip free nonfat dressing": [
+    "Ice cream sandwich, vanilla, light"
+  ],
+  "vinegar, balsamic": [
+    "Lemon juice, raw",
+    "Vinegar, cider",
+    "Vinegar, red wine"
+  ],
+  "sausage, smoked link sausage, pork": [
+    "Ham, minced",
+    "Sausage, turkey, pork"
+  ],
+  "egg substitute, powder": [
+    "Egg, whole, raw"
+  ],
+  "cheese, goat, hard type": [
+    "Cheese, feta",
+    "Poi"
+  ],
+  "soup, pea, green": [
+    "Applesauce, canned, unsweetened",
+    "Peppers, serrano, raw",
+    "Sauce, salsa, ready-to-serve"
+  ],
+  "tomato products, canned, puree": [
+    "Tomato juice, canned, with salt added",
+    "Tomato products, canned, paste"
+  ],
+  "spices, dill weed, dried": [
+    "Basil, fresh"
+  ],
+  "lettuce, cos or romaine, raw": [
+    "Cabbage, raw"
+  ],
+  "nuts, macadamia nuts, raw": [
+    "Nuts, pecans"
+  ],
+  "pork, cured, salt pork": [
+    "Ham, minced",
+    "Pork, bacon, rendered fat"
+  ],
+  "pickles, cucumber, dill": [
+    "Capers, canned"
+  ],
+  "fish, anchovy, european": [
+    "Nuts, almond paste"
+  ],
+  "apples, raw, fuji": [
+    "Apple juice, frozen concentrate, unsweetened"
+  ],
+  "corn, yellow, whole kernel": [
+    "Nuts, almonds"
+  ],
+  "soup, onion, canned": [
+    "Chicken, canned, no broth",
+    "Spices, cardamom",
+    "Spices, onion powder"
+  ],
+  "tomato powder": [
+    "Sauce, tomato chili sauce, bottled"
+  ],
+  "naranjilla  pulp, frozen, unsweetened": [
+    "Apricots, canned, water pack"
+  ],
+  "soup, cream of shrimp, canned": [
+    "Loganberries, frozen"
+  ],
+  "nuts, chestnuts, chinese": [
+    "Mushrooms, shiitake, raw"
+  ],
+  "nuts, coconut cream, raw": [
+    "Nuts, coconut milk, raw"
+  ],
+  "mustard, prepared, yellow": [
+    "Oil, mustard"
+  ],
+  "soup, onion, dry": [
+    "Spices, onion powder"
+  ],
+  "crustaceans, lobster, northern": [
+    "Soup, stock, beef"
+  ],
+  "fish, cod, atlantic": [
+    "Fish, pollock, Atlantic"
+  ],
+  "roast beef spread": [
+    "Turkey, whole, breast"
+  ],
+  "game meat , bison, ground": [
+    "Lamb, leg, whole"
+  ],
+  "maraschino cherries, canned, drained": [
+    "Nance, canned, syrup"
+  ],
+  "gravy, onion, dry": [
+    "Gravy, brown, dry"
+  ],
+  "squash, zucchini, baby": [
+    "Basil, fresh"
+  ],
+  "spices, thyme, dried": [
+    "Basil, fresh"
+  ],
+  "grape leaves, raw": [
+    "Blackberry juice, canned"
+  ],
+  "beans, navy, mature seeds": [
+    "Beans, pinto, canned",
+    "Peas, edible-podded, raw"
+  ],
+  "cheese, caraway": [
+    "Oil, mustard"
+  ],
+  "spices, pepper, white": [
+    "Spices, pepper, black"
+  ],
+  "whey, sweet, fluid": [
+    "Vinegar, red wine"
+  ],
+  "fish, smelt, rainbow": [
+    "Fish, caviar, black and red"
+  ],
+  "wasabi, root, raw": [
+    "Horseradish, prepared"
+  ],
+  "spices, saffron": [
+    "Spices, turmeric, ground"
+  ],
+  "soup, cream of chicken, canned": [
+    "Soup, cream of mushroom, canned"
+  ],
+  "figs, raw": [
+    "Cherries, tart, dried"
+  ],
+  "sauce, hoisin, ready-to-serve": [
+    "Sauce, oyster, ready-to-serve"
+  ],
+  "turkey, whole, breast": [
+    "Beans, navy, mature seeds"
+  ],
+  "cheese substitute, mozzarella": [
+    "Cheese, feta"
+  ],
+  "soup, cheese, canned": [
+    "Cheese, blue",
+    "Sauce, tomato chili sauce, bottled"
+  ],
+  "sour cream, light": [
+    "Cream, sour, cultured"
+  ],
+  "cornmeal, whole-grain, yellow": [
+    "Cornstarch"
+  ],
+  "oil, soybean lecithin": [
+    "Oil, canola"
+  ],
+  "beef, loin, top loin steak": [
+    "Spices, ginger, ground"
+  ],
+  "cabbage, napa, cooked": [
+    "Seasoning mix, dry, sazon"
+  ],
+  "nuts, almond butter, plain": [
+    "Peanut Butter, smooth"
+  ]
+}

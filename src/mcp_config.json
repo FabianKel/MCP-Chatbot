@@ -22,6 +22,12 @@
     "env": {
       "GITHUB_PERSONAL_ACCESS_TOKEN": "GITHUB_PERSONAL_ACCESS_TOKEN"
     }
+  },
+  {
+    "name": "kitchen",
+    "type": "stdio",
+    "command": "node",
+    "args": ["src/servers/kitchen-server/src/mcp-server.js"]
   }
 
 ]

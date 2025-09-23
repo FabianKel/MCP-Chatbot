@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+.DS_Store
+*.log
+# VSCode
+.vscode/
+src/data/combined_data.json
+*.log
+src/chatbot_log.json
+src/xxd.txt
