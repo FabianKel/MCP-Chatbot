@@ -1,5 +1,8 @@
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js";
+import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/streamableHttp.js";
+import { SSEClientTransport } from "@modelcontextprotocol/sdk/client/sse.js";
+import type { Transport } from "@modelcontextprotocol/sdk/shared/transport.js";
 import fs from "fs/promises";
 import path from "path";
 import 'dotenv/config';
@@ -92,8 +95,38 @@ export async function createClientsFromConfig(
         await client.connect(transport);
         clients[entry.name] = { client, entry };
         console.log(`Connected MCP client for ${entry.name} (stdio)`);
-      }
-    } catch (err) {
+      } else if (entry.type === "url") {
+          const baseUrl = new URL(entry.url);
+
+          try {
+            const client = new Client({
+              name: entry.name,
+              version: "1.0.0",
+            });
+
+            const transport = new StreamableHTTPClientTransport(baseUrl) as unknown as Transport;
+            await client.connect(transport);
+
+            clients[entry.name] = { client, entry };
+            console.log(`Connected MCP client for ${entry.name} (Streamable HTTP: ${entry.url})`);
+          } catch (err) {
+            console.warn(`Streamable HTTP failed for ${entry.name}, falling back to SSE:`, err);
+
+            const client = new Client({
+              name: entry.name,
+              version: "1.0.0",
+            });
+
+            const sseTransport = new SSEClientTransport(baseUrl) as unknown as Transport;
+            await client.connect(sseTransport);
+
+            clients[entry.name] = { client, entry };
+            console.log(`Connected MCP client for ${entry.name} (SSE: ${entry.url})`);
+          }
+        }
+
+
+    }catch (err) {
       console.error(`Failed to connect to MCP ${entry.name}:`, err);
     }
   }

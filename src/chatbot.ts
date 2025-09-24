@@ -225,14 +225,45 @@ async function main() {
       const answer = await llm.ask(userText);
       console.log("[LLM] Assistant ->", answer);
 
-      await appendLog({
-        type: "assistant_message",
-        text: answer,
-        user: userText,
-      });
+      // Intentar parsear JSON
+      let parsed: { action: string; args: Record<string, unknown> };
+      try {
+        parsed = JSON.parse(answer);
+      } catch {
+        // No es JSON -> solo imprimir
+        await appendLog({ type: "assistant_message", text: answer, user: userText });
+        rl.prompt();
+        return;
+      }
+
+      if (parsed?.action && parsed?.args) {
+        const [serverName, toolName] = parsed.action.split(".");
+        if (serverName && toolName && clients[serverName]) {
+          console.log(`[MCP] 🚀 Calling ${serverName}.${toolName} with`, parsed.args);
+          const result = await clients[serverName].client.callTool({
+            name: toolName,
+            arguments: parsed.args,
+          });
+          console.log(`[MCP] ✅ Result from ${serverName}.${toolName}:`);
+          console.log(JSON.stringify(result, null, 2));
+
+          await appendLog({
+            type: "mcp_call",
+            server: serverName,
+            tool: toolName,
+            arguments: parsed.args,
+            result,
+          });
+        } else {
+          console.log("[MCP] ❌ Unknown server/tool in action:", parsed.action);
+        }
+      } else {
+        await appendLog({ type: "assistant_message", text: answer, user: userText });
+      }
     } catch (err) {
       console.error("[LLM] ❌ Error during LLM interaction:", err);
     }
+
 
     rl.prompt();
   });

@@ -28,6 +28,11 @@
     "type": "stdio",
     "command": "node",
     "args": ["src/servers/kitchen-server/src/mcp-server.js"]
+  },
+  {
+    "name": "remote-get-random-number",
+    "type": "url",
+    "url": "https://google.com"
   }
 
 ]
