@@ -13,7 +13,7 @@ app.post("/", async (req, res) => {
       id,
       result: {
         capabilities: { tools: {} },
-        protocolVersion: "0.1.0",
+        protocolVersion: "1.0.0",
         serverInfo: {
           name: "remote-random",
           version: "1.0.0",
