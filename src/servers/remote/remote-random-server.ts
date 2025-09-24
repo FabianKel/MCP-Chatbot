@@ -1,67 +1,75 @@
 import express from "express";
-import bodyParser from "body-parser";
 
 const app = express();
-app.use(bodyParser.json());
+app.use(express.json());
 
-app.post("/", async (req, res) => {
-  const { id, method } = req.body;
+function rpcResponse(id: string | number, result: any) {
+  return {
+    jsonrpc: "2.0",
+    id,
+    result,
+  };
+}
+
+function rpcError(id: string | number, code: number, message: string) {
+  return {
+    jsonrpc: "2.0",
+    id,
+    error: { code, message },
+  };
+}
+
+app.post("/", (req, res) => {
+  const { id, method, params } = req.body;
 
   if (method === "initialize") {
-    return res.json({
-      jsonrpc: "2.0",
-      id,
-      result: {
-        capabilities: { tools: {} },
-        version: "1.0.0",
+    return res.json(
+      rpcResponse(id, {
+        protocolVersion: "1.0.0", // ✅ ahora correcto
+        capabilities: {
+          tools: {},
+        },
         serverInfo: {
           name: "remote-random",
           version: "1.0.0",
         },
-      },
-    });
+      })
+    );
   }
 
-  if (method === "listTools") {
-    return res.json({
-      jsonrpc: "2.0",
-      id,
-      result: [
+  if (method === "tools/list") {
+    return res.json(
+      rpcResponse(id, [
         {
           name: "get-random",
           description: "Returns a random number between 1 and 9",
           inputSchema: {
             type: "object",
-            properties: {},
+            properties: {}, // no requiere inputs
           },
         },
-      ],
-    });
+      ])
+    );
   }
 
-  if (method === "callTool") {
-    return res.json({
-      jsonrpc: "2.0",
-      id,
-      result: {
-        content: [
-          {
-            type: "text",
-            text: String(Math.floor(Math.random() * 9) + 1),
-          },
-        ],
-      },
-    });
+  if (method === "tools/call") {
+    if (params?.name === "get-random") {
+      const randomNumber = Math.floor(Math.random() * 9) + 1;
+      return res.json(
+        rpcResponse(id, {
+          content: [
+            {
+              type: "text",
+              text: String(randomNumber),
+            },
+          ],
+        })
+      );
+    }
+    return res.json(rpcError(id, -32601, "Tool not found"));
   }
 
-  res.json({
-    jsonrpc: "2.0",
-    id,
-    error: {
-      code: -32601,
-      message: "Method not found",
-    },
-  });
+  return res.json(rpcError(id, -32601, "Method not found"));
 });
 
 const port = process.env.PORT || 8080;
