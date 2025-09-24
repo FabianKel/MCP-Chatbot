@@ -25,7 +25,7 @@ app.post("/", (req, res) => {
   if (method === "initialize") {
     return res.json(
       rpcResponse(id, {
-        protocolVersion: "1.0.0", // ✅ ahora correcto
+        protocolVersion: "2024-11-05",
         capabilities: {
           tools: {},
         },
