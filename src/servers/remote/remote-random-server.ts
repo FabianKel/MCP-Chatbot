@@ -37,20 +37,23 @@ app.post("/", (req, res) => {
     );
   }
 
-  if (method === "tools/list") {
-    return res.json(
-      rpcResponse(id, [
-        {
-          name: "get-random",
-          description: "Returns a random number between 1 and 9",
-          inputSchema: {
-            type: "object",
-            properties: {}, // no requiere inputs
-          },
-        },
-      ])
-    );
-  }
+    if (method === "tools/list") {
+        return res.json(
+            rpcResponse(id, {
+            tools: [
+                {
+                name: "get-random",
+                description: "Returns a random number between 1 and 9",
+                inputSchema: {
+                    type: "object",
+                    properties: {}, // sin inputs
+                },
+                },
+            ],
+            })
+        );
+    }
+
 
   if (method === "tools/call") {
     if (params?.name === "get-random") {
